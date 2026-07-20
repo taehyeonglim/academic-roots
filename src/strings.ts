@@ -1,5 +1,11 @@
 // All user-facing UI text lives here so localization is a one-file change.
+export const REPO_OWNER = "taehyeonglim";
+export const REPO_NAME = "academic-roots";
+export const REPO_URL = `https://github.com/${REPO_OWNER}/${REPO_NAME}`;
+
 export const strings = {
+  starOnGitHub: "Star",
+  viewOnGitHub: "View source on GitHub",
   appTitle: "Academic Roots",
   appSubtitle: "The academic genealogy of Vanessa P. Dennen",
   emptyHint: "Click a person to see details",

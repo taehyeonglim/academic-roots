@@ -86,6 +86,26 @@ candidates still listed as current students, July 2026); Tang (may be MS
 alumna). Late 2025–2026 graduates may be missing — recheck DigiNole
 periodically.
 
+## R5 — Merrill's doctoral students: 7 found (2026-07-20)
+
+Key fact: Merrill's archived vita has NO doctoral-student list — assembled
+from his memoir ("A 50+ Year Search…", 2017), interviews, USU DigitalCommons
+ETD metadata, and students' own CVs. Verified: Tennyson (BYU 1971), McArthur
+(USU 1991, repository chair-of-record — strongest), Drake (USU 1997),
+Van Schaack (USU 2006, honorary co-chair; chair of record David Wiley).
+Unverified persons: Boutwell, Li, Twitchell (facts rest on memoir alone).
+
+Notable exclusions (myth-busting): **David A. Wiley is NOT Merrill's advisee**
+(BYU 2000, co-chairs Bunderson & Nelson; Merrill plain committee member per
+approval page). Also excluded: Brent Wilson (chair unknown), Gardner (Belland
+chaired), ID2 staff (Mark K. Jones etc.), Lowery (doctorate unconfirmed),
+Mendenhall/Barclay/Hemphill (ambiguous).
+
+Coverage: BYU 1968–79 / USC 1979–88 / USU 1987–2004 cohorts substantially
+under-enumerated (true count plausibly 30–60; only 9 USU IT dissertations
+1987–2006 are digitized). Remaining lead: ProQuest advisor-field search
+("Merrill, M. David") from a subscribed library — FSU access would work.
+
 ## R4 — Photos: 3 of 4 collected ✅ (2026-07-20)
 
 All resized to 400px max via sips.

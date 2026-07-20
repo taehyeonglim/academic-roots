@@ -39,6 +39,25 @@ export function computeGenerations(data: Genealogy): Map<string, number | null> 
   return gen;
 }
 
+/** The anchor plus their transitive advisors — the lineage spine. */
+function ancestorChain(data: Genealogy): Set<string> {
+  const chain = new Set<string>();
+  const anchor = data.people.find((p) => p.role === "anchor");
+  if (!anchor) return chain;
+  chain.add(anchor.id);
+  const queue = [anchor.id];
+  while (queue.length > 0) {
+    const id = queue.shift()!;
+    for (const r of data.relationships) {
+      if (r.studentId === id && !chain.has(r.advisorId)) {
+        chain.add(r.advisorId);
+        queue.push(r.advisorId);
+      }
+    }
+  }
+  return chain;
+}
+
 /** Selected person + their direct advisors and students. */
 function neighborhood(data: Genealogy, selectedId: string): Set<string> {
   const near = new Set<string>([selectedId]);
@@ -55,6 +74,7 @@ export function buildFlowGraph(
 ): { nodes: PersonFlowNode[]; edges: Edge[]; generations: Map<string, number | null> } {
   const generations = computeGenerations(data);
   const near = selectedId ? neighborhood(data, selectedId) : null;
+  const chain = ancestorChain(data);
 
   const nodes: PersonFlowNode[] = data.people.map((person) => {
     const generation = generations.get(person.id) ?? null;
@@ -66,7 +86,9 @@ export function buildFlowGraph(
       data: {
         person,
         generation,
-        variant: generation != null && generation > 0 ? "compact" : "full",
+        // The lineage spine (anchor + transitive advisors) gets full cards;
+        // everyone else — descendants and academic siblings — is compact.
+        variant: chain.has(person.id) ? "full" : "compact",
         isSelected: person.id === selectedId,
       },
     };

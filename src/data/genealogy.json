@@ -920,6 +920,132 @@
       "confidence": "verified",
       "notes": "EdD 2023. Committee: Dennen (directing), Rutledge (univ. rep.), Ke, Klein.",
       "dissertationTitle": "Preservice Teachers' Perceptions and Readiness Entering Culturally and Linguistically Diverse Classrooms"
+    },
+    {
+      "id": "robert-tennyson",
+      "name": "Robert D. Tennyson",
+      "degree": "PhD",
+      "degreeField": "Instructional Psychology",
+      "institution": "Brigham Young University",
+      "year": 1971,
+      "currentAffiliation": "Professor Emeritus, Educational Psychology, University of Minnesota",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20190309081240/http://mdavidmerrill.com/Resume/Merrill_50%2BYears_onlineversion.pdf",
+          "label": "Merrill, 'A 50+ Year Search…' memoir (primary, autobiographical)"
+        },
+        {
+          "url": "https://edpsych.umn.edu/emeriti/robert-tennyson",
+          "label": "UMN emeriti page (BYU PhD)"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Dissertation research on concept-classification errors published as Tennyson, Woolley & Merrill (1972), J. Educational Psychology."
+    },
+    {
+      "id": "richard-boutwell",
+      "name": "Richard C. Boutwell",
+      "degree": "PhD",
+      "degreeField": "Instructional Psychology",
+      "institution": "Brigham Young University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20190309081240/http://mdavidmerrill.com/Resume/Merrill_50%2BYears_onlineversion.pdf",
+          "label": "Merrill, 'A 50+ Year Search…' memoir (primary, autobiographical)"
+        },
+        {
+          "url": "https://journals.sagepub.com/doi/10.3102/0091732X001001095",
+          "label": "Merrill & Boutwell (1973), Review of Research in Education"
+        }
+      ],
+      "confidence": "unverified",
+      "notes": "PhD early 1970s; exact year not documented. Merrill: 'I invited one of my PhD students, Richard Boutwell, to work with me.'"
+    },
+    {
+      "id": "zhongmin-li",
+      "name": "Zhongmin Li",
+      "degree": "PhD",
+      "degreeField": "Instructional Design & Technology",
+      "institution": "University of Southern California",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20190309081240/http://mdavidmerrill.com/Resume/Merrill_50%2BYears_onlineversion.pdf",
+          "label": "Merrill, 'A 50+ Year Search…' memoir (primary, autobiographical)"
+        }
+      ],
+      "confidence": "unverified",
+      "notes": "PhD ~1988 (year not documented); simultaneously earned an MS in computer science. Later ID2 research professor at Utah State, then entrepreneur (as James Z. Li). Merrill: 'I have had some very bright students, but Zhongmin is at the top of this list.'"
+    },
+    {
+      "id": "david-twitchell",
+      "name": "David Twitchell",
+      "degree": "PhD",
+      "degreeField": "Instructional Technology",
+      "institution": "Utah State University",
+      "sources": [
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED542979.pdf",
+          "label": "Merrill interview 2010: 'David Twitchell, who was a Ph.D. student of mine at the time' (primary)"
+        }
+      ],
+      "confidence": "unverified",
+      "notes": "Merrill's PhD student ~1990; degree completion not documented. Edited Merrill's book 'Instructional Design Theory' (1994)."
+    },
+    {
+      "id": "ian-mcarthur",
+      "name": "Ian A. McArthur",
+      "degree": "PhD",
+      "degreeField": "Instructional Technology",
+      "institution": "Utah State University",
+      "year": 1991,
+      "dissertationTitle": "Instructional Logistics and Chunque-Based Learning Systems",
+      "sources": [
+        {
+          "url": "https://digitalcommons.usu.edu/etd/8194/",
+          "label": "USU DigitalCommons ETD record — Committee Chair: M. David Merrill"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Dissertation committee also included Charles M. Reigeluth."
+    },
+    {
+      "id": "leston-drake",
+      "name": "Leston Drake",
+      "degree": "PhD",
+      "degreeField": "Instructional Technology",
+      "institution": "Utah State University",
+      "year": 1997,
+      "currentAffiliation": "Co-founder, LetterPress Software",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/in/leston-drake-phd-2a15951/",
+          "label": "Own LinkedIn (PhD USU — primary self-statement)"
+        },
+        {
+          "url": "http://web.archive.org/web/20190309081240/http://mdavidmerrill.com/Resume/Merrill_50%2BYears_onlineversion.pdf",
+          "label": "Merrill, 'A 50+ Year Search…' memoir (primary, autobiographical)"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Developed the Instructional Simulator in Merrill's ID2 group."
+    },
+    {
+      "id": "andrew-van-schaack",
+      "name": "Andrew J. Van Schaack",
+      "degree": "PhD",
+      "degreeField": "Instructional Technology",
+      "institution": "Utah State University",
+      "year": 2006,
+      "dissertationTitle": "The Effects of an Electronic Flashcard System Incorporating a Modified Constant Time Delay Protocol with Incremental Rehearsal and Expanding Retrieval Review on Paired-Associate Learning",
+      "currentAffiliation": "Professor of the Practice, Peabody College, Vanderbilt University",
+      "sources": [
+        {
+          "url": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-82-andrewjvanschaackcvpublic23-20240524101317.pdf",
+          "label": "Own CV — 'Honorary Co-Chair: Dr. M. David Merrill' (primary)"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Chair of record: David A. Wiley (Merrill had retired from USU in 2004); Merrill served as honorary co-chair."
     }
   ],
   "relationships": [
@@ -947,6 +1073,10 @@
         {
           "url": "https://files.eric.ed.gov/fulltext/ED542982.pdf",
           "label": "Reigeluth interview 2013: 'Dave Merrill was my primary advisor at Brigham Young University' (primary)"
+        },
+        {
+          "url": "https://ftp.idu.ac.id/wp-content/uploads/ebook/ip/BUKU%20TRANSFER%20TEKNOLOGI/IIT.pdf",
+          "label": "Festschrift interview — Merrill: 'I got to be his advisor' (primary, mirror copy)"
         }
       ],
       "confidence": "verified"
@@ -1387,6 +1517,90 @@
         {
           "url": "http://web.archive.org/web/20240804052326/https://diginole.lib.fsu.edu/islandora/object/fsu%3A883172",
           "label": "DigiNole ETD record (archived) — Dennen professor directing dissertation"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "david-merrill",
+      "studentId": "robert-tennyson",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20190309081240/http://mdavidmerrill.com/Resume/Merrill_50%2BYears_onlineversion.pdf",
+          "label": "Merrill, 'A 50+ Year Search…' memoir (primary, autobiographical)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "david-merrill",
+      "studentId": "richard-boutwell",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20190309081240/http://mdavidmerrill.com/Resume/Merrill_50%2BYears_onlineversion.pdf",
+          "label": "Merrill memoir: 'one of my PhD students, Richard Boutwell' (primary)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "david-merrill",
+      "studentId": "zhongmin-li",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20190309081240/http://mdavidmerrill.com/Resume/Merrill_50%2BYears_onlineversion.pdf",
+          "label": "Merrill memoir: recruited Li at USC for his PhD in instructional design (primary)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "david-merrill",
+      "studentId": "david-twitchell",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED542979.pdf",
+          "label": "Merrill: 'a Ph.D. student of mine' (primary)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "david-merrill",
+      "studentId": "ian-mcarthur",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://digitalcommons.usu.edu/etd/8194/",
+          "label": "USU ETD record — Committee Chair: M. David Merrill"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "david-merrill",
+      "studentId": "leston-drake",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20190309081240/http://mdavidmerrill.com/Resume/Merrill_50%2BYears_onlineversion.pdf",
+          "label": "Merrill recruited/mentored his PhD in ID2; chair of record not documented"
+        }
+      ],
+      "confidence": "unverified"
+    },
+    {
+      "advisorId": "david-merrill",
+      "studentId": "andrew-van-schaack",
+      "type": "co-advisor",
+      "sources": [
+        {
+          "url": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-82-andrewjvanschaackcvpublic23-20240524101317.pdf",
+          "label": "His CV: Honorary Co-Chair M. David Merrill (chair of record: David A. Wiley)"
         }
       ],
       "confidence": "verified"

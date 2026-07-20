@@ -20,11 +20,16 @@ the doctoral students in this tree (PhD 2018).
 
 Vanessa was my dissertation advisor, but that title has never felt like
 enough. She is the person who changed the course of my life. As an advisor
-she taught me how to think, write, and do scholarship; as a mentor she
-showed me — by example, in a thousand small moments — how to live: with
-generosity, patience, curiosity, and genuine care for the people you are
-responsible for. Whatever kind of teacher and researcher I manage to become,
-I learned it first by watching her.
+she taught me how to think, write, and do scholarship — but her real
+lessons were larger than any of that. At the most important crossroads of
+my life, she was the one who awakened me to what family truly means, what
+a life is lived for, and what happiness actually is. She taught these
+things the way only a true teacher can — not by telling, but by example,
+in a thousand small moments of generosity, patience, curiosity, and
+genuine care for the people she is responsible for. She is, in the fullest
+sense of the word, the teacher of my life. Whatever kind of teacher,
+researcher, and person I manage to become, I learned it first by watching
+her.
 
 An academic genealogy felt like the right form for this tribute, because it
 makes visible what mentorship actually does: it compounds across

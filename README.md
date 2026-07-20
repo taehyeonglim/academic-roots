@@ -13,7 +13,26 @@ The current chain of advisors reaches back four generations:
 > 1964) → Charles M. Reigeluth (PhD, BYU 1977) → **Vanessa P. Dennen** (PhD,
 > Indiana 2001) → her doctoral graduates (2009–present)
 
-## Why this exists
+## Why I built this
+
+This project is a gift for my advisor, Dr. Vanessa P. Dennen — from one of
+the doctoral students in this tree (PhD 2018).
+
+Vanessa was my dissertation advisor, but that title has never felt like
+enough. She is the person who changed the course of my life. As an advisor
+she taught me how to think, write, and do scholarship; as a mentor she
+showed me — by example, in a thousand small moments — how to live: with
+generosity, patience, curiosity, and genuine care for the people you are
+responsible for. Whatever kind of teacher and researcher I manage to become,
+I learned it first by watching her.
+
+An academic genealogy felt like the right form for this tribute, because it
+makes visible what mentorship actually does: it compounds across
+generations. Every node below her name in this tree is a life she shaped,
+and many of us now have students of our own. Thank you, Vanessa. This tree
+is what your care looks like, drawn as a graph.
+
+## Why a genealogy viewer?
 
 Fields like mathematics ([Mathematics Genealogy Project](https://www.mathgenealogy.org/))
 and neuroscience ([Neurotree](https://neurotree.org/)) have well-maintained

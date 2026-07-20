@@ -940,7 +940,8 @@
         }
       ],
       "confidence": "verified",
-      "notes": "Dissertation research on concept-classification errors published as Tennyson, Woolley & Merrill (1972), J. Educational Psychology."
+      "notes": "Dissertation research on concept-classification errors published as Tennyson, Woolley & Merrill (1972), J. Educational Psychology.",
+      "photo": "robert-tennyson.jpg"
     },
     {
       "id": "richard-boutwell",
@@ -1024,10 +1025,15 @@
         {
           "url": "http://web.archive.org/web/20190309081240/http://mdavidmerrill.com/Resume/Merrill_50%2BYears_onlineversion.pdf",
           "label": "Merrill, 'A 50+ Year Search…' memoir (primary, autobiographical)"
+        },
+        {
+          "url": "https://www.letterpressconsulting.com/about.html",
+          "label": "LetterPress Consulting About page — photo source, © LetterPress"
         }
       ],
       "confidence": "verified",
-      "notes": "Developed the Instructional Simulator in Merrill's ID2 group."
+      "notes": "Developed the Instructional Simulator in Merrill's ID2 group.",
+      "photo": "leston-drake.jpg"
     },
     {
       "id": "andrew-van-schaack",
@@ -1042,10 +1048,15 @@
         {
           "url": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-82-andrewjvanschaackcvpublic23-20240524101317.pdf",
           "label": "Own CV — 'Honorary Co-Chair: Dr. M. David Merrill' (primary)"
+        },
+        {
+          "url": "https://my.vanderbilt.edu/vanschaack/",
+          "label": "Vanderbilt faculty site — photo source, © Vanderbilt University"
         }
       ],
       "confidence": "verified",
-      "notes": "Chair of record: David A. Wiley (Merrill had retired from USU in 2004); Merrill served as honorary co-chair."
+      "notes": "Chair of record: David A. Wiley (Merrill had retired from USU in 2004); Merrill served as honorary co-chair.",
+      "photo": "andrew-van-schaack.png"
     }
   ],
   "relationships": [

@@ -22,7 +22,6 @@ interface Props {
 
 function minimapColor(node: PersonFlowNode): string {
   if (node.data.person.role === "anchor") return "#9a7b2d";
-  if (node.data.person.role === "self") return "#2d6a4f";
   return "#ddd8cc";
 }
 

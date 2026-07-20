@@ -21,7 +21,6 @@ export function PersonNode({ data }: NodeProps<PersonFlowNode>) {
   const classes = ["person-node"];
   if (variant === "compact") classes.push("compact");
   if (person.role === "anchor") classes.push("is-anchor");
-  if (person.role === "self") classes.push("is-self");
   if (person.confidence === "unverified") classes.push("is-unverified");
   if (isSelected) classes.push("is-selected");
 
@@ -44,7 +43,6 @@ export function PersonNode({ data }: NodeProps<PersonFlowNode>) {
           <div className="person-inst">{person.institution}</div>
         )}
       </div>
-      {person.role === "self" && <span className="person-badge">{strings.youBadge}</span>}
       <Handle type="source" position={Position.Bottom} className="person-handle" />
     </div>
   );

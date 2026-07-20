@@ -37,6 +37,12 @@ generations. Every node below her name in this tree is a life she shaped,
 and many of us now have students of our own. Thank you, Vanessa. This tree
 is what your care looks like, drawn as a graph.
 
+<p align="center">
+  <img src="docs/images/with-vanessa-april-2014.jpg" alt="Vanessa and me, April 2014" width="420" />
+  <br />
+  <em>Vanessa and me — April 2014, during my doctoral years at FSU.</em>
+</p>
+
 ## Why a genealogy viewer?
 
 Fields like mathematics ([Mathematics Genealogy Project](https://www.mathgenealogy.org/))

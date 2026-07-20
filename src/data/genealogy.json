@@ -10,7 +10,14 @@
       "dissertationTitle": "The design and facilitation of asynchronous discussion activities in Web-based courses",
       "currentAffiliation": "Professor, Instructional Systems & Learning Technologies, Florida State University",
       "links": { "homepage": "https://vanessadennen.com" },
-      "sources": [{ "url": "https://vanessadennen.com", "label": "Personal site / CV" }],
+      "photo": "vanessa-dennen.jpg",
+      "sources": [
+        { "url": "https://vanessadennen.com", "label": "Personal site / CV" },
+        {
+          "url": "https://annescollege.fsu.edu/faculty-staff/dr-vanessa-dennen",
+          "label": "FSU faculty profile (photo source, © FSU)"
+        }
+      ],
       "confidence": "verified",
       "role": "anchor"
     },
@@ -20,11 +27,83 @@
       "degree": "PhD",
       "degreeField": "Instructional Psychology",
       "institution": "Brigham Young University",
-      "currentAffiliation": "Professor Emeritus, Indiana University",
-      "links": { "wikipedia": "https://en.wikipedia.org/wiki/Charles_Reigeluth" },
-      "sources": [{ "url": "https://en.wikipedia.org/wiki/Charles_Reigeluth", "label": "Wikipedia" }],
+      "year": 1977,
+      "currentAffiliation": "Professor Emeritus, Instructional Systems Technology, Indiana University",
+      "links": {
+        "homepage": "https://www.reigeluth.net/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Charles_Reigeluth",
+        "googleScholar": "https://scholar.google.com/citations?user=3nOLu4wAAAAJ"
+      },
+      "photo": "charles-reigeluth.jpg",
+      "sources": [
+        { "url": "https://www.reigeluth.net/me-c1owg", "label": "Own site bio (primary)" },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED542982.pdf",
+          "label": "Interview, Contemporary Educational Technology 2013 (autobiographical)"
+        },
+        {
+          "url": "https://education.indiana.edu/about/directory/profiles/reigeluth-charles-m.html",
+          "label": "Indiana University directory (photo source, © IU)"
+        }
+      ],
       "confidence": "verified",
-      "notes": "Person facts verified. Advisor relationship to Dennen confirmed directly by her advisee (2026-07-20)."
+      "notes": "Advisor relationship to Dennen confirmed directly by her advisee (2026-07-20). Dissertation title not in open records; topic: TICCIT CAI experiment supporting Merrill's Component Display Theory."
+    },
+    {
+      "id": "david-merrill",
+      "name": "M. David Merrill",
+      "degree": "PhD",
+      "degreeField": "Educational Psychology (Psychology of Classroom Learning)",
+      "institution": "University of Illinois at Urbana-Champaign",
+      "year": 1964,
+      "currentAffiliation": "Professor Emeritus, Utah State University",
+      "links": {
+        "homepage": "https://mdavidmerrill.wordpress.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/M._David_Merrill",
+        "googleScholar": "https://scholar.google.com/citations?user=Uxn4YZkAAAAJ"
+      },
+      "photo": "david-merrill.jpg",
+      "sources": [
+        {
+          "url": "https://mdavidmerrill.wordpress.com/my-professional-history/",
+          "label": "Own professional history (primary)"
+        },
+        {
+          "url": "http://web.archive.org/web/20120217005845/http://mdavidmerrill.com/text/Resume.pdf",
+          "label": "Own resume (archived, primary)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED542979.pdf",
+          "label": "Interview, Contemporary Educational Technology 2010 (autobiographical)"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Dissertation title not in open records; the study (SOCRATES teaching machine, feedback treatments, 'Xenograde Systems') was published as Merrill (1965), J. Educational Psychology 56(5). Photo: CC BY-SA 2.0, Kristina D.C. Hoeppner, Wikimedia Commons."
+    },
+    {
+      "id": "lawrence-stolurow",
+      "name": "Lawrence M. Stolurow",
+      "degree": "PhD",
+      "degreeField": "Experimental Psychology",
+      "institution": "University of Pittsburgh",
+      "year": 1947,
+      "currentAffiliation": "Professor Emeritus, University of Iowa (1918–2009)",
+      "sources": [
+        {
+          "url": "https://www.legacy.com/us/obituaries/lajollalight/name/lawrence-stolurow-obituary?id=22392931",
+          "label": "La Jolla Light obituary, 2009 (sole source for education facts)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED542979.pdf",
+          "label": "Merrill interview — Stolurow's Illinois Training Research Lab & SOCRATES CAI"
+        },
+        {
+          "url": "https://files.archon.library.illinois.edu/uasfa/1519822.pdf",
+          "label": "Univ. of Illinois Archives finding aid (Illinois period records)"
+        }
+      ],
+      "confidence": "unverified",
+      "notes": "Career well documented (Illinois Training Research Lab 1953–66, Harvard CAI Lab 1966–71, SUNY Stony Brook, Iowa). Education facts (PhD Pittsburgh 1947) rest on the family obituary only. His own doctoral advisor is undocumented — the chain's current dead end. No photo found in any acceptable source (pre-web era)."
     },
     {
       "id": "taehyeong-lim",
@@ -39,6 +118,34 @@
     }
   ],
   "relationships": [
+    {
+      "advisorId": "lawrence-stolurow",
+      "studentId": "david-merrill",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://edrev.asu.edu/index.php/ER/article/view/2220",
+          "label": "Merrill, 'A 50+ Year Search…', Education Review 24 (2017): 'he became the chairman of my PhD committee and the advisor for my PhD dissertation' (primary)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED542979.pdf",
+          "label": "Merrill interview 2010: graduate study under Stolurow at Illinois (primary)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "david-merrill",
+      "studentId": "charles-reigeluth",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED542982.pdf",
+          "label": "Reigeluth interview 2013: 'Dave Merrill was my primary advisor at Brigham Young University' (primary)"
+        }
+      ],
+      "confidence": "verified"
+    },
     {
       "advisorId": "charles-reigeluth",
       "studentId": "vanessa-dennen",

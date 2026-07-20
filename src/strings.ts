@@ -18,6 +18,7 @@ export const strings = {
   legendCoAdvisor: "co-advisor",
   legendUnverifiedEdge: "unverified link",
   legendUnverifiedNode: "unverified person",
+  legendDimHint: "click a person to focus their connections",
   closePanel: "Close",
   coAdvisorTag: "co-advisor",
   linkLabels: {

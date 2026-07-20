@@ -27,6 +27,7 @@ export function Legend() {
         <span className="legend-node-sample" aria-hidden="true" />
         <span>{strings.legendUnverifiedNode}</span>
       </div>
+      <div className="legend-row legend-hint">{strings.legendDimHint}</div>
     </div>
   );
 }

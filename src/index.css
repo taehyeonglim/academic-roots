@@ -114,6 +114,45 @@ body {
   outline-offset: 2px;
 }
 
+/* compact variant: descendants grid */
+.person-node.compact {
+  width: 170px;
+  height: 64px;
+  padding: 8px 10px;
+  gap: 8px;
+  border-radius: 8px;
+}
+
+.person-node.compact .person-avatar {
+  width: 30px;
+  height: 30px;
+  font-size: 10.5px;
+}
+
+.person-node.compact .person-name {
+  font-size: 12.5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.person-node.compact .person-meta {
+  font-size: 10.5px;
+}
+
+/* dim everything outside the selected person's neighborhood */
+.react-flow__node {
+  transition: opacity 0.2s ease;
+}
+
+.react-flow__node.dimmed {
+  opacity: 0.25;
+}
+
+.react-flow__edge-path {
+  transition: stroke 0.2s ease, opacity 0.2s ease, stroke-width 0.2s ease;
+}
+
 .person-avatar {
   width: 44px;
   height: 44px;
@@ -207,6 +246,12 @@ body {
   border: 1.5px dashed var(--line);
   border-radius: 4px;
   background: var(--surface);
+}
+
+.legend-hint {
+  font-style: italic;
+  color: var(--muted);
+  max-width: 170px;
 }
 
 /* ---------- detail panel ---------- */

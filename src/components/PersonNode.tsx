@@ -17,8 +17,9 @@ function resolvePhoto(photo: string): string {
 }
 
 export function PersonNode({ data }: NodeProps<PersonFlowNode>) {
-  const { person, isSelected } = data;
+  const { person, isSelected, variant } = data;
   const classes = ["person-node"];
+  if (variant === "compact") classes.push("compact");
   if (person.role === "anchor") classes.push("is-anchor");
   if (person.role === "self") classes.push("is-self");
   if (person.confidence === "unverified") classes.push("is-unverified");
@@ -39,7 +40,9 @@ export function PersonNode({ data }: NodeProps<PersonFlowNode>) {
       <div className="person-info">
         <div className="person-name">{person.name}</div>
         {meta && <div className="person-meta">{meta}</div>}
-        {person.institution && <div className="person-inst">{person.institution}</div>}
+        {variant === "full" && person.institution && (
+          <div className="person-inst">{person.institution}</div>
+        )}
       </div>
       {person.role === "self" && <span className="person-badge">{strings.youBadge}</span>}
       <Handle type="source" position={Position.Bottom} className="person-handle" />

@@ -2,12 +2,13 @@ import { useEffect, useMemo } from "react";
 import {
   Background,
   Controls,
+  MiniMap,
   ReactFlow,
   useReactFlow,
   type NodeMouseHandler,
 } from "@xyflow/react";
 import { buildFlowGraph, type PersonFlowNode } from "../lib/graph";
-import { layoutNodes, NODE_HEIGHT, NODE_WIDTH } from "../lib/layout";
+import { layoutNodes, SIZES } from "../lib/layout";
 import type { Genealogy } from "../types";
 import { PersonNode } from "./PersonNode";
 
@@ -19,23 +20,36 @@ interface Props {
   onSelect: (id: string | null) => void;
 }
 
+function minimapColor(node: PersonFlowNode): string {
+  if (node.data.person.role === "anchor") return "#9a7b2d";
+  if (node.data.person.role === "self") return "#2d6a4f";
+  return "#ddd8cc";
+}
+
 export function GenealogyGraph({ data, selectedId, onSelect }: Props) {
   const { nodes, edges } = useMemo(() => {
     const graph = buildFlowGraph(data, selectedId);
-    return { nodes: layoutNodes(graph.nodes, graph.edges), edges: graph.edges };
+    return {
+      nodes: layoutNodes(graph.nodes, graph.generations),
+      edges: graph.edges,
+    };
   }, [data, selectedId]);
 
-  const { setCenter } = useReactFlow();
+  const { setCenter, getZoom } = useReactFlow();
   useEffect(() => {
     if (!selectedId) return;
     const node = nodes.find((n) => n.id === selectedId);
     if (node) {
-      void setCenter(node.position.x + NODE_WIDTH / 2, node.position.y + NODE_HEIGHT / 2, {
-        duration: 500,
+      const size = SIZES[node.data.variant];
+      // Keep the user's zoom (clamped) so selecting doesn't lurch the viewport in.
+      const zoom = Math.min(Math.max(getZoom(), 0.45), 1.1);
+      void setCenter(node.position.x + size.width / 2, node.position.y + size.height / 2, {
+        duration: 400,
+        zoom,
       });
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps -- recenter only when selection changes
-  }, [selectedId, setCenter]);
+  }, [selectedId, setCenter, getZoom]);
 
   const onNodeClick: NodeMouseHandler<PersonFlowNode> = (_event, node) => onSelect(node.id);
 
@@ -54,6 +68,7 @@ export function GenealogyGraph({ data, selectedId, onSelect }: Props) {
     >
       <Background gap={24} size={1.5} />
       <Controls showInteractive={false} />
+      <MiniMap nodeColor={minimapColor} pannable zoomable={false} />
     </ReactFlow>
   );
 }

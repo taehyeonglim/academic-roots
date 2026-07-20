@@ -1092,12 +1092,17 @@
         {
           "url": "https://staff-old.najah.edu/sites/default/files/cv/Afnan_Darwazeh.pdf",
           "label": "Her CV (PhD Syracuse IDD&E)"
+        },
+        {
+          "url": "https://staff.najah.edu/ar/profiles/2137/",
+          "label": "An-Najah National University staff directory — photo source, © An-Najah"
         }
       ],
       "confidence": "verified",
       "year": 1982,
       "dissertationTitle": "Student-Generated vs. Teacher-Oriented Adjunct Questions: Their Effects on Remember- and Application-Level Learning",
-      "currentAffiliation": "Professor, An-Najah National University, Palestine"
+      "currentAffiliation": "Professor, An-Najah National University, Palestine",
+      "photo": "afnan-darwazeh.jpg"
     },
     {
       "id": "faith-stein",
@@ -1365,12 +1370,17 @@
         {
           "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
           "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://education.indiana.edu/about/directory/profiles/appelman-robert-l.html",
+          "label": "IU School of Education directory — photo source, © IU"
         }
       ],
       "confidence": "verified",
       "year": 1993,
       "dissertationTitle": "The Effects on Congruency between Structural and Contextual Dominance in Image Processing",
-      "currentAffiliation": "Clinical Professor (ret.), Indiana University IST"
+      "currentAffiliation": "Clinical Professor (ret.), Indiana University IST",
+      "photo": "robert-appelman.jpg"
     },
     {
       "id": "richard-armstrong",
@@ -1398,13 +1408,18 @@
         {
           "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
           "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://udayton.edu/blogs/education/2025/fulbright-specialist-carr-chellman.php",
+          "label": "University of Dayton SOEHS blog — photo source, © UDayton"
         }
       ],
       "confidence": "verified",
       "year": 1993,
       "dissertationTitle": "Selecting Community Participants for Systemic Educational Restructuring: Who Should Serve?",
       "currentAffiliation": "Dean, School of Education and Health Sciences, University of Dayton",
-      "notes": "PhD as Alison A. Carr. Co-editor with Reigeluth of Instructional-Design Theories and Models Vol. III."
+      "notes": "PhD as Alison A. Carr. Co-editor with Reigeluth of Instructional-Design Theories and Models Vol. III.",
+      "photo": "alison-carr-chellman.jpg"
     },
     {
       "id": "jean-clonts",
@@ -1449,13 +1464,18 @@
         {
           "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
           "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://badrulkhan.com/",
+          "label": "His own site — photo source"
         }
       ],
       "confidence": "verified",
       "year": 1994,
       "dissertationTitle": "Post Facto Formative Research on the Educational Systems Design (ESD) Process",
       "currentAffiliation": "Founder, McWeadon Education; formerly George Washington University",
-      "notes": "E-learning framework scholar."
+      "notes": "E-learning framework scholar.",
+      "photo": "badrul-khan.jpg"
     },
     {
       "id": "young-hwan-kim",
@@ -1671,13 +1691,18 @@
         {
           "url": "https://www.researchgate.net/publication/35733041",
           "label": "Dissertation PDF acknowledgment: 'Dr. Charles M. Reigeluth, my committee chair'"
+        },
+        {
+          "url": "https://gcoe.sfsu.edu/people/brian-beatty",
+          "label": "SFSU faculty page — photo source, © SFSU"
         }
       ],
       "confidence": "verified",
       "year": 2002,
       "dissertationTitle": "Social Interaction in Online Learning: A Situationalities Framework for Choosing Instructional Methods",
       "currentAffiliation": "Professor, San Francisco State University",
-      "notes": "Originator of HyFlex course design; co-editor of Instructional-Design Theories and Models Vol. IV."
+      "notes": "Originator of HyFlex course design; co-editor of Instructional-Design Theories and Models Vol. IV.",
+      "photo": "brian-beatty.jpg"
     },
     {
       "id": "kursat-cagiltay",
@@ -1689,13 +1714,18 @@
         {
           "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
           "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.tedu.edu.tr/en/kursat-cagiltay",
+          "label": "TED University profile — photo source, © TEDU"
         }
       ],
       "confidence": "verified",
       "year": 2002,
       "dissertationTitle": "An Alternative Design Model for Building Electronic Performance Support Systems",
-      "currentAffiliation": "Professor, Middle East Technical University / Sabancı University, Turkey",
-      "notes": "Double major: IST + cognitive science."
+      "currentAffiliation": "Dean, Faculty of Education, TED University, Ankara (earlier METU, Sabancı)",
+      "notes": "Double major: IST + cognitive science.",
+      "photo": "kursat-cagiltay.jpeg"
     },
     {
       "id": "ji-yeon-lee",
@@ -1728,12 +1758,17 @@
         {
           "url": "https://education.ecu.edu/wp-content/pv-uploads/sites/171/2019/01/Maureen_Ellis-CV_2022_23.pdf",
           "label": "Her CV: 'Thesis Chair: Dr. Charles M. Reigeluth'"
+        },
+        {
+          "url": "https://education.ecu.edu/directory/",
+          "label": "ECU College of Education directory — photo source, © ECU"
         }
       ],
       "confidence": "verified",
       "year": 2003,
       "dissertationTitle": "Emerging Issues about Pedagogy and Delivery System Appropriateness: Adapting a Large, Lecture-Based Course to Web-Based Instruction at a Residential Site",
-      "currentAffiliation": "Associate Professor, East Carolina University"
+      "currentAffiliation": "Associate Professor, East Carolina University",
+      "photo": "maureen-ellis.jpg"
     },
     {
       "id": "roberto-joseph",
@@ -1749,12 +1784,17 @@
         {
           "url": "https://www.researchgate.net/publication/242147810",
           "label": "Dissertation front matter (Reigeluth chair)"
+        },
+        {
+          "url": "https://expertfile.com/experts/roberto.joseph/roberto-joseph",
+          "label": "Hofstra ExpertFile profile — photo source"
         }
       ],
       "confidence": "verified",
       "year": 2003,
       "dissertationTitle": "Formative Research on a Design Theory to Facilitate Systemic Change in Public School Districts",
-      "currentAffiliation": "Associate Professor, Hofstra University"
+      "currentAffiliation": "Associate Professor, Hofstra University",
+      "photo": "roberto-joseph.jpg"
     },
     {
       "id": "gi-zen-liu",
@@ -1783,12 +1823,17 @@
         {
           "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
           "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.upstatefoundation.org/Avers",
+          "label": "SUNY Upstate Foundation endowment page — photo source"
         }
       ],
       "confidence": "verified",
       "year": 2004,
       "dissertationTitle": "The Effects of a Laptop Computer Program on the Teaching-Learning Dynamic at One Physical Therapist Education Program",
-      "currentAffiliation": "Professor Emerita, SUNY Upstate Medical University"
+      "currentAffiliation": "Professor Emerita, SUNY Upstate Medical University",
+      "photo": "dale-avers.jpg"
     },
     {
       "id": "yun-jeong-park",
@@ -1824,12 +1869,17 @@
         {
           "url": "https://www.westga.edu/share/documents/vitae/vita_035655.pdf",
           "label": "Her vita: 'Advisor: Dr. Charles Reigeluth'"
+        },
+        {
+          "url": "https://lt.unt.edu/people/yunjo-an.html",
+          "label": "UNT Learning Technologies faculty page — photo source, © UNT"
         }
       ],
       "confidence": "verified",
       "year": 2006,
       "currentAffiliation": "Professor, Learning Technologies, University of North Texas",
-      "notes": "Dissertation on problem-based learning in online environments (basis of An & Reigeluth, 2008). Co-author of Reigeluth & An (2021)."
+      "notes": "Dissertation on problem-based learning in online environments (basis of An & Reigeluth, 2008). Co-author of Reigeluth & An (2021).",
+      "photo": "yun-jo-an.jpg"
     },
     {
       "id": "taylor-halverson",
@@ -1845,13 +1895,18 @@
         {
           "url": "https://www.grafiati.com/en/literature-selections/religious-education-curriculum/dissertation/",
           "label": "DAI 67-10A record: 'Adviser: Charles M. Reigeluth'"
+        },
+        {
+          "url": "https://rsc.byu.edu/author/halverson-taylor",
+          "label": "BYU Religious Studies Center author page — photo source, © BYU"
         }
       ],
       "confidence": "verified",
       "year": 2006,
       "dissertationTitle": "Improving Blended Learning Environments for Biblical Studies: Applications of the 'Innovations in Distance Education' Theory",
       "currentAffiliation": "Brigham Young University",
-      "notes": "Double major: IST + Religious Studies."
+      "notes": "Double major: IST + Religious Studies.",
+      "photo": "taylor-halverson.jpg"
     },
     {
       "id": "bruce-peterson",
@@ -1887,12 +1942,17 @@
         {
           "url": "https://www.researchgate.net/publication/44209588",
           "label": "Dissertation acknowledgment: 'Charles Reigeluth, who has shown me what it is to truly be a mentor'"
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=2fyBmkcAAAAJ",
+          "label": "Google Scholar profile (photo source)"
         }
       ],
       "confidence": "verified",
       "year": 2007,
       "dissertationTitle": "Formative Research on an Instructional Design Theory for Educational Video Games",
-      "currentAffiliation": "Professor, Learning Design and Technology, Purdue University"
+      "currentAffiliation": "Professor, Learning Design and Technology, Purdue University",
+      "photo": "william-watson.jpg"
     },
     {
       "id": "sari-pascoe",
@@ -2008,11 +2068,16 @@
         {
           "url": "https://web.ics.purdue.edu/~brwatson/publications/systems_handbook_chapter.pdf",
           "label": "Extensive co-authorship on Reigeluth's Decatur/PIES projects"
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=emm4TTcAAAAJ",
+          "label": "Google Scholar profile (photo source)"
         }
       ],
       "confidence": "unverified",
       "currentAffiliation": "Professor, Purdue University",
-      "notes": "PhD ~2008. Chair statement not located — presumed advisee from sustained project co-authorship."
+      "notes": "PhD ~2008. Chair statement not located — presumed advisee from sustained project co-authorship.",
+      "photo": "sunnie-lee-watson.jpg"
     },
     {
       "id": "kurt-richter",
@@ -2048,13 +2113,18 @@
         {
           "url": "https://eric.ed.gov/?id=ED552073",
           "label": "ERIC dissertation record"
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=8_zveS8AAAAJ",
+          "label": "Google Scholar profile (photo source)"
         }
       ],
       "confidence": "unverified",
       "year": 2012,
       "dissertationTitle": "Investigating 'The Coolest School in America': A Study of a Learner-Centered School and Educational Technology in the Information Age",
       "currentAffiliation": "Intel Corporation (AI/UX research)",
-      "notes": "~10 co-authored papers with Reigeluth (2011–2021); AECT Reigeluth Emerging Researcher Award. Chair statement not located."
+      "notes": "~10 co-authored papers with Reigeluth (2011–2021); AECT Reigeluth Emerging Researcher Award. Chair statement not located.",
+      "photo": "sinem-aslan.jpg"
     },
     {
       "id": "yeol-huh",

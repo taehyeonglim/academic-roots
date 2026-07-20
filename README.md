@@ -5,7 +5,10 @@
 An interactive academic genealogy of [Vanessa P. Dennen](https://vanessadennen.com)
 (Professor of Instructional Systems & Learning Technologies, Florida State
 University) — tracing her scholarly lineage upward through her doctoral
-advisors and downward to the 30+ doctoral students she has graduated.
+advisors, sideways to her academic siblings (the other doctoral students of
+Charles M. Reigeluth and of M. David Merrill), and downward to the 30+
+doctoral students she has graduated. The tree currently documents **100+
+scholars across five academic generations**, every edge source-cited.
 
 The current chain of advisors reaches back four generations:
 

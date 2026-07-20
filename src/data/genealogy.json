@@ -1057,6 +1057,1064 @@
       "confidence": "verified",
       "notes": "Chair of record: David A. Wiley (Merrill had retired from USU in 2004); Merrill served as honorary co-chair.",
       "photo": "andrew-van-schaack.png"
+    },
+    {
+      "id": "cathy-rodgers",
+      "name": "Cathy Rodgers",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1981,
+      "dissertationTitle": "Using Comparative Advance Organizers: The Effect of Identified Relationships on Students Expectancy for Success"
+    },
+    {
+      "id": "afnan-darwazeh",
+      "name": "Afnan N. Darwazeh",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://staff-old.najah.edu/sites/default/files/cv/Afnan_Darwazeh.pdf",
+          "label": "Her CV (PhD Syracuse IDD&E)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1982,
+      "dissertationTitle": "Student-Generated vs. Teacher-Oriented Adjunct Questions: Their Effects on Remember- and Application-Level Learning",
+      "currentAffiliation": "Professor, An-Najah National University, Palestine"
+    },
+    {
+      "id": "faith-stein",
+      "name": "Faith S. Stein",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1982,
+      "dissertationTitle": "Beyond Prose and Adjunct Questions: A Comparison with a Designed Approach to Instruction",
+      "notes": "Co-author of the Elaboration Theory chapter (Reigeluth & Stein, 1983)."
+    },
+    {
+      "id": "ulker-koymen",
+      "name": "Ülker Sayiner Köymen",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1983,
+      "dissertationTitle": "A Model for Organizing Written Instructional Materials in the Context of a Proposed Model for an Open University in Turkey",
+      "notes": "Distance-education scholar in Turkey."
+    },
+    {
+      "id": "virginia-tilden",
+      "name": "D. Virginia Tilden",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1984,
+      "dissertationTitle": "The Nature of Review: Components of a Summarizer Which Increases Retention"
+    },
+    {
+      "id": "james-van-patten",
+      "name": "James Van Patten",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1984,
+      "dissertationTitle": "The Effects of Conceptual and Procedural Sequences and Synthesizers on Selected Outcomes of Instruction",
+      "notes": "Co-author of Van Patten, Chao & Reigeluth (1986), Review of Educational Research."
+    },
+    {
+      "id": "ruth-curtis",
+      "name": "Ruth Villency Curtis",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://surface.syr.edu/idde_etd/42/",
+          "label": "Syracuse SURFACE ETD record"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1986,
+      "dissertationTitle": "The Analogy as an Instructional and Motivational Design Strategy in Text"
+    },
+    {
+      "id": "bonnie-keller",
+      "name": "Bonnie Keller",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1986,
+      "dissertationTitle": "The Effects of Selected Presentation Forms Using Conceptual and Procedural Content from Elementary Mathematics"
+    },
+    {
+      "id": "herb-carson",
+      "name": "Herb Carson",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1987,
+      "dissertationTitle": "A Model for Designing and Evaluating Microcomputer-Based Instructional Games for Teaching Principles at the Use Level"
+    },
+    {
+      "id": "chun-i-chao",
+      "name": "Chun-I Chao",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1987,
+      "dissertationTitle": "The Composition and Effects of the Synthesizer on Selected Instructional Outcomes"
+    },
+    {
+      "id": "harry-mouton",
+      "name": "Harry Mouton",
+      "degree": "PhD",
+      "degreeField": "Instructional Design, Development & Evaluation",
+      "institution": "Syracuse University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://eric.ed.gov/?id=ED350973",
+          "label": "Co-authored IDD&E Working Paper #24 with Reigeluth (1987)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1988,
+      "dissertationTitle": "Adjunct Questions in Mediated Self-Instruction"
+    },
+    {
+      "id": "bonnie-breidenbach",
+      "name": "Bonnie Draus Breidenbach",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1989,
+      "dissertationTitle": "The Restructuring Process in a Major Metropolitan School District"
+    },
+    {
+      "id": "terry-farmer",
+      "name": "Terry Morris Farmer",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1989,
+      "dissertationTitle": "A Refinement of the ARCS Motivational Design Procedure Using a Formative Evaluation Methodology"
+    },
+    {
+      "id": "catherine-roma",
+      "name": "Catherine Roma",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1990,
+      "dissertationTitle": "Formative Evaluation Research on an Instructional Theory for Understanding"
+    },
+    {
+      "id": "janice-simmons",
+      "name": "Janice Simmons",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1991,
+      "dissertationTitle": "A Formative Evaluation of a Theory for Teaching Causal Relationships"
+    },
+    {
+      "id": "robert-english",
+      "name": "Robert English",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1992,
+      "dissertationTitle": "Formative Research on the Elaboration Theory of Instruction",
+      "notes": "Published as English & Reigeluth (1996), ETR&D."
+    },
+    {
+      "id": "robert-appelman",
+      "name": "Robert Lynn Appelman",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1993,
+      "dissertationTitle": "The Effects on Congruency between Structural and Contextual Dominance in Image Processing",
+      "currentAffiliation": "Clinical Professor (ret.), Indiana University IST"
+    },
+    {
+      "id": "richard-armstrong",
+      "name": "Richard B. Armstrong",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1993,
+      "dissertationTitle": "The Team Instructional Prescriptions (TIP) Theory: A Set of Integrated Models for Prescribing Instructional Strategies for Teams"
+    },
+    {
+      "id": "alison-carr-chellman",
+      "name": "Alison Carr-Chellman",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1993,
+      "dissertationTitle": "Selecting Community Participants for Systemic Educational Restructuring: Who Should Serve?",
+      "currentAffiliation": "Dean, School of Education and Health Sciences, University of Dayton",
+      "notes": "PhD as Alison A. Carr. Co-editor with Reigeluth of Instructional-Design Theories and Models Vol. III."
+    },
+    {
+      "id": "jean-clonts",
+      "name": "Jean Griffith Clonts",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1993,
+      "dissertationTitle": "Formative Evaluation of an Instructional Theory for Awareness of Ethical Issues"
+    },
+    {
+      "id": "ming-fen-li",
+      "name": "Ming-Fen Li",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1993,
+      "dissertationTitle": "The Application of Habermas' Critical Theory and Zen Philosophy for Designing Metacognitive Instruction",
+      "notes": "Later professor in Taiwan."
+    },
+    {
+      "id": "badrul-khan",
+      "name": "Badrul H. Khan",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1994,
+      "dissertationTitle": "Post Facto Formative Research on the Educational Systems Design (ESD) Process",
+      "currentAffiliation": "Founder, McWeadon Education; formerly George Washington University",
+      "notes": "E-learning framework scholar."
+    },
+    {
+      "id": "young-hwan-kim",
+      "name": "Young Hwan Kim",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1994,
+      "dissertationTitle": "Formative Research on the Simplifying Conditions Method",
+      "currentAffiliation": "Professor, Pusan National University, Korea"
+    },
+    {
+      "id": "in-sook-lee",
+      "name": "In-Sook Lee",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1994,
+      "dissertationTitle": "Identifying Stakeholders' Values in the Front-End of Educational Systems Design",
+      "currentAffiliation": "Professor, Sejong University, Korea"
+    },
+    {
+      "id": "cheol-il-lim",
+      "name": "Cheol-Il Lim",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1994,
+      "dissertationTitle": "A Formative Research on an Instructional Theory for Conceptual Understanding",
+      "currentAffiliation": "Professor of Education, Seoul National University, Korea"
+    },
+    {
+      "id": "susanna-tsai",
+      "name": "Susanna Tsai",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1995,
+      "dissertationTitle": "An Instructional Theory for Attitude Formation"
+    },
+    {
+      "id": "lottie-naugle",
+      "name": "Lottie R. Naugle",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1996,
+      "dissertationTitle": "A Formative Research Case Study of Reigeluth's Process Model and a Rural Elementary School's Efforts to Initiate School Restructuring"
+    },
+    {
+      "id": "yih-pei-hu",
+      "name": "Yih-Pei Hu",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1998,
+      "dissertationTitle": "The Evolution of Teachers' Mindsets Through Systemic Educational Reform: A Case Study of Forest Elementary School in Taiwan"
+    },
+    {
+      "id": "julie-hutchins",
+      "name": "Julie Hutchins",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1998,
+      "dissertationTitle": "Formative Research into the Systemic Change Process Model: Real Life Contributions from the St. Louis Career Education District"
+    },
+    {
+      "id": "laurie-miller-nelson",
+      "name": "Laurie Miller Nelson",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 1998,
+      "dissertationTitle": "Collaborative Problem Solving: An Instructional Theory for Learning Through Small Group Interaction",
+      "currentAffiliation": "Utah State University (last known)",
+      "notes": "Later co-chaired David A. Wiley's BYU dissertation — a cross-link to the Merrill branch of this tree."
+    },
+    {
+      "id": "diana-ryan",
+      "name": "Diana F. Ryan",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2000,
+      "dissertationTitle": "Systemic Evaluation Process for Design Team: Walking the Talk"
+    },
+    {
+      "id": "hee-kap-lee",
+      "name": "Hee Kap Lee",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2001,
+      "dissertationTitle": "A Comprehensive Innovation Diffusion Model in Higher Educational Setting: Post Facto Formative Research",
+      "currentAffiliation": "Professor, Indiana Wesleyan University"
+    },
+    {
+      "id": "su-hong-park",
+      "name": "Su-Hong Park",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2001,
+      "dissertationTitle": "A Systems View of Team Learning: Toward a Theory for the Design of Electronic Performance Support for Teams",
+      "currentAffiliation": "Professor, Pusan National University, Korea"
+    },
+    {
+      "id": "randy-siebold",
+      "name": "Randy Jay Siebold",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2001,
+      "dissertationTitle": "Education Design Theory: Theory Development for Participant Design of New Seventh-Day Adventist Schools",
+      "currentAffiliation": "Andrews University (last known)"
+    },
+    {
+      "id": "brian-beatty",
+      "name": "Brian J. Beatty",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/35733041",
+          "label": "Dissertation PDF acknowledgment: 'Dr. Charles M. Reigeluth, my committee chair'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2002,
+      "dissertationTitle": "Social Interaction in Online Learning: A Situationalities Framework for Choosing Instructional Methods",
+      "currentAffiliation": "Professor, San Francisco State University",
+      "notes": "Originator of HyFlex course design; co-editor of Instructional-Design Theories and Models Vol. IV."
+    },
+    {
+      "id": "kursat-cagiltay",
+      "name": "Kürşat Çağıltay",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2002,
+      "dissertationTitle": "An Alternative Design Model for Building Electronic Performance Support Systems",
+      "currentAffiliation": "Professor, Middle East Technical University / Sabancı University, Turkey",
+      "notes": "Double major: IST + cognitive science."
+    },
+    {
+      "id": "ji-yeon-lee",
+      "name": "Ji-Yeon Lee",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2002,
+      "dissertationTitle": "Heuristic Task Analysis on Expertise in Designing Web-Based Instruction (WBI)",
+      "currentAffiliation": "Professor, Inha University, Korea"
+    },
+    {
+      "id": "maureen-ellis",
+      "name": "Maureen L. Ellis",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://education.ecu.edu/wp-content/pv-uploads/sites/171/2019/01/Maureen_Ellis-CV_2022_23.pdf",
+          "label": "Her CV: 'Thesis Chair: Dr. Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2003,
+      "dissertationTitle": "Emerging Issues about Pedagogy and Delivery System Appropriateness: Adapting a Large, Lecture-Based Course to Web-Based Instruction at a Residential Site",
+      "currentAffiliation": "Associate Professor, East Carolina University"
+    },
+    {
+      "id": "roberto-joseph",
+      "name": "Roberto Joseph",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/242147810",
+          "label": "Dissertation front matter (Reigeluth chair)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2003,
+      "dissertationTitle": "Formative Research on a Design Theory to Facilitate Systemic Change in Public School Districts",
+      "currentAffiliation": "Associate Professor, Hofstra University"
+    },
+    {
+      "id": "gi-zen-liu",
+      "name": "Gi-Zen Liu",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2003,
+      "dissertationTitle": "Developing an Instructional Design Theory for Teaching English as a Foreign Language in a Hybrid Web-Based Instruction Course in Taiwan",
+      "currentAffiliation": "Distinguished Professor, National Cheng Kung University, Taiwan"
+    },
+    {
+      "id": "dale-avers",
+      "name": "Dale Avers",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2004,
+      "dissertationTitle": "The Effects of a Laptop Computer Program on the Teaching-Learning Dynamic at One Physical Therapist Education Program",
+      "currentAffiliation": "Professor Emerita, SUNY Upstate Medical University"
+    },
+    {
+      "id": "yun-jeong-park",
+      "name": "Yun Jeong Park",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.grafiati.com/en/literature-selections/education-language-and-literature-education-evaluation-education-higher/",
+          "label": "DAI 67-01A record: 'Adviser: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2005,
+      "dissertationTitle": "Instructional Design Theory for Entirely Web-Based Courses in Higher Education: A Case Study on ESL Pragmatic Teaching"
+    },
+    {
+      "id": "yun-jo-an",
+      "name": "Yun-Jo An",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.westga.edu/share/documents/vitae/vita_035655.pdf",
+          "label": "Her vita: 'Advisor: Dr. Charles Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2006,
+      "currentAffiliation": "Professor, Learning Technologies, University of North Texas",
+      "notes": "Dissertation on problem-based learning in online environments (basis of An & Reigeluth, 2008). Co-author of Reigeluth & An (2021)."
+    },
+    {
+      "id": "taylor-halverson",
+      "name": "Taylor David Halverson",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.grafiati.com/en/literature-selections/religious-education-curriculum/dissertation/",
+          "label": "DAI 67-10A record: 'Adviser: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2006,
+      "dissertationTitle": "Improving Blended Learning Environments for Biblical Studies: Applications of the 'Innovations in Distance Education' Theory",
+      "currentAffiliation": "Brigham Young University",
+      "notes": "Double major: IST + Religious Studies."
+    },
+    {
+      "id": "bruce-peterson",
+      "name": "Bruce Jeffrey Peterson",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.grafiati.com/en/literature-selections/design-and-technology-education/dissertation/",
+          "label": "DAI 69-02A record: 'Adviser: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2007,
+      "dissertationTitle": "An Instructional Design Model for Heuristics"
+    },
+    {
+      "id": "william-watson",
+      "name": "William R. Watson",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/44209588",
+          "label": "Dissertation acknowledgment: 'Charles Reigeluth, who has shown me what it is to truly be a mentor'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2007,
+      "dissertationTitle": "Formative Research on an Instructional Design Theory for Educational Video Games",
+      "currentAffiliation": "Professor, Learning Design and Technology, Purdue University"
+    },
+    {
+      "id": "sari-pascoe",
+      "name": "Sari M. Pascoe",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://institutionalmemory.iu.edu/aim/items/073e942b-d51e-44ac-89a9-c3f80a14f444",
+          "label": "IU Bloomington Commencement Program, May 2008: 'Chair: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2008,
+      "dissertationTitle": "Factors Influencing Attendance for a Leadership Team in a School District"
+    },
+    {
+      "id": "daniel-pascoe-aguilar",
+      "name": "Daniel Pascoe Aguilar",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://institutionalmemory.iu.edu/aim/bitstreams/e04240d5-2f8d-4442-a5dd-743bebeef18d/download",
+          "label": "IU Winter Commencement Program, Dec 2009: 'Chair: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2009,
+      "dissertationTitle": "Effects of Personality Type on the Consensus-Building Performance of a Leadership Team"
+    },
+    {
+      "id": "herbert-fiester",
+      "name": "Herbert R. Fiester",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://s3.amazonaws.com/rm3.photos.prod.readmedia.com/students/5263267/photos/original/herbfiestervita_public.pdf",
+          "label": "His vita: 'Dissertation Chair: Dr. Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2010,
+      "dissertationTitle": "Using Heuristic Task Analysis to Create Web-Based Instructional (WBI) Design Theory",
+      "currentAffiliation": "Valdosta State University"
+    },
+    {
+      "id": "zengguan-chen",
+      "name": "Zengguan (Joy) Chen",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/dr-joy-chen-3416271_iubloomington-hoosiers-instructionalsystemstechnology-activity-7435884403278434304-I-6V",
+          "label": "Her own post: 'advisor, Dr. Charles Reigeluth, whose mentorship had a lasting impact' (primary)"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "PhD ~2011 (year unconfirmed). Dissertation on communication in a leadership team for systemic change (basis of Chen & Reigeluth, 2010)."
+    },
+    {
+      "id": "pratima-dutta",
+      "name": "Pratima Dutta",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.proquest.com/openview/a1429579c55ff7302c140bf22f126b1f/1",
+          "label": "ProQuest record — acknowledgment: 'my advisor, mentor, and dissertation chair, Dr. Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "year": 2013,
+      "dissertationTitle": "Personalized Integrated Educational System (PIES) for the Learner-Centered Information-Age Paradigm of Education"
+    },
+    {
+      "id": "sunnie-lee-watson",
+      "name": "Sunnie Lee Watson",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://web.ics.purdue.edu/~brwatson/publications/systems_handbook_chapter.pdf",
+          "label": "Extensive co-authorship on Reigeluth's Decatur/PIES projects"
+        }
+      ],
+      "confidence": "unverified",
+      "currentAffiliation": "Professor, Purdue University",
+      "notes": "PhD ~2008. Chair statement not located — presumed advisee from sustained project co-authorship."
+    },
+    {
+      "id": "kurt-richter",
+      "name": "Kurt B. Richter",
+      "degree": "EdD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://uncc.academia.edu/Departments/Center_for_Teaching_Learning/Documents",
+          "label": "'Based on the literature review for Kurt Richter's doctoral dissertation at Indiana University'"
+        }
+      ],
+      "confidence": "unverified",
+      "currentAffiliation": "UNC Charlotte, Center for Teaching and Learning (last known)",
+      "notes": "EdD ~2009. Dissertation studied Reigeluth's Decatur project; chair statement not located."
+    },
+    {
+      "id": "sinem-aslan",
+      "name": "Sinem Aslan",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://eric.ed.gov/?id=ED552073",
+          "label": "ERIC dissertation record"
+        }
+      ],
+      "confidence": "unverified",
+      "year": 2012,
+      "dissertationTitle": "Investigating 'The Coolest School in America': A Study of a Learner-Centered School and Educational Technology in the Information Age",
+      "currentAffiliation": "Intel Corporation (AI/UX research)",
+      "notes": "~10 co-authored papers with Reigeluth (2011–2021); AECT Reigeluth Emerging Researcher Award. Chair statement not located."
+    },
+    {
+      "id": "yeol-huh",
+      "name": "Yeol Huh",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.researchgate.net/profile/Yeol-Huh",
+          "label": "PIES team co-authorships (Huh & Reigeluth 2014–2017)"
+        }
+      ],
+      "confidence": "unverified",
+      "currentAffiliation": "Kennesaw State University (earlier Emporia State)",
+      "notes": "PhD ~2013. Chair statement not located."
+    },
+    {
+      "id": "dabae-lee",
+      "name": "Dabae Lee",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s11251-015-9348-7",
+          "label": "Lee, Huh & Reigeluth (2015), Instructional Science"
+        }
+      ],
+      "confidence": "unverified",
+      "currentAffiliation": "Kennesaw State University (last known US post)",
+      "notes": "PhD ~2013–14. Chair statement not located."
+    },
+    {
+      "id": "chun-yi-lin",
+      "name": "Chun-Yi Lin",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.cedtech.net/article/communication-issues-in-a-leadership-team-for-systemic-change-in-a-school-district-6030",
+          "label": "Lin & Reigeluth co-publications (2016–2021)"
+        }
+      ],
+      "confidence": "unverified",
+      "currentAffiliation": "Tamkang University, Taiwan (last known)",
+      "notes": "PhD ~2014, completed around Reigeluth's retirement — possibly co-chaired. Chair statement not located."
     }
   ],
   "relationships": [
@@ -1100,6 +2158,10 @@
         {
           "url": "https://vanessadennen.com",
           "label": "Confirmed by advisee (site owner), 2026-07-20 — add ProQuest record URL (R1)"
+        },
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived) — lists Dennen (2001) under Reigeluth (documentary corroboration of R1)"
         }
       ],
       "confidence": "verified"
@@ -1615,6 +2677,778 @@
         }
       ],
       "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "cathy-rodgers",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "afnan-darwazeh",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://staff-old.najah.edu/sites/default/files/cv/Afnan_Darwazeh.pdf",
+          "label": "Her CV (PhD Syracuse IDD&E)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "faith-stein",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "ulker-koymen",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "virginia-tilden",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "james-van-patten",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "ruth-curtis",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://surface.syr.edu/idde_etd/42/",
+          "label": "Syracuse SURFACE ETD record"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "bonnie-keller",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED307852.pdf",
+          "label": "Caffarella, Doctoral Research in ID&T 1977–1986 (AECT directory)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "herb-carson",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "chun-i-chao",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "harry-mouton",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://eric.ed.gov/?id=ED350973",
+          "label": "Co-authored IDD&E Working Paper #24 with Reigeluth (1987)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "bonnie-breidenbach",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "terry-farmer",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "catherine-roma",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "janice-simmons",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "robert-english",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "robert-appelman",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "richard-armstrong",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "alison-carr-chellman",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "jean-clonts",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "ming-fen-li",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "badrul-khan",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "young-hwan-kim",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "in-sook-lee",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "cheol-il-lim",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "susanna-tsai",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "lottie-naugle",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "yih-pei-hu",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "julie-hutchins",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "laurie-miller-nelson",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "diana-ryan",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "hee-kap-lee",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "su-hong-park",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "randy-siebold",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "brian-beatty",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/35733041",
+          "label": "Dissertation PDF acknowledgment: 'Dr. Charles M. Reigeluth, my committee chair'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "kursat-cagiltay",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "ji-yeon-lee",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "maureen-ellis",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://education.ecu.edu/wp-content/pv-uploads/sites/171/2019/01/Maureen_Ellis-CV_2022_23.pdf",
+          "label": "Her CV: 'Thesis Chair: Dr. Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "roberto-joseph",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/242147810",
+          "label": "Dissertation front matter (Reigeluth chair)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "gi-zen-liu",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "dale-avers",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "yun-jeong-park",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.grafiati.com/en/literature-selections/education-language-and-literature-education-evaluation-education-higher/",
+          "label": "DAI 67-01A record: 'Adviser: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "yun-jo-an",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.westga.edu/share/documents/vitae/vita_035655.pdf",
+          "label": "Her vita: 'Advisor: Dr. Charles Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "taylor-halverson",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.grafiati.com/en/literature-selections/religious-education-curriculum/dissertation/",
+          "label": "DAI 67-10A record: 'Adviser: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "bruce-peterson",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.grafiati.com/en/literature-selections/design-and-technology-education/dissertation/",
+          "label": "DAI 69-02A record: 'Adviser: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "william-watson",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/44209588",
+          "label": "Dissertation acknowledgment: 'Charles Reigeluth, who has shown me what it is to truly be a mentor'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "sari-pascoe",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://institutionalmemory.iu.edu/aim/items/073e942b-d51e-44ac-89a9-c3f80a14f444",
+          "label": "IU Bloomington Commencement Program, May 2008: 'Chair: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "daniel-pascoe-aguilar",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://institutionalmemory.iu.edu/aim/bitstreams/e04240d5-2f8d-4442-a5dd-743bebeef18d/download",
+          "label": "IU Winter Commencement Program, Dec 2009: 'Chair: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "herbert-fiester",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://s3.amazonaws.com/rm3.photos.prod.readmedia.com/students/5263267/photos/original/herbfiestervita_public.pdf",
+          "label": "His vita: 'Dissertation Chair: Dr. Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "zengguan-chen",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/dr-joy-chen-3416271_iubloomington-hoosiers-instructionalsystemstechnology-activity-7435884403278434304-I-6V",
+          "label": "Her own post: 'advisor, Dr. Charles Reigeluth, whose mentorship had a lasting impact' (primary)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "pratima-dutta",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
+          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
+        },
+        {
+          "url": "https://www.proquest.com/openview/a1429579c55ff7302c140bf22f126b1f/1",
+          "label": "ProQuest record — acknowledgment: 'my advisor, mentor, and dissertation chair, Dr. Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "sunnie-lee-watson",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://web.ics.purdue.edu/~brwatson/publications/systems_handbook_chapter.pdf",
+          "label": "Extensive co-authorship on Reigeluth's Decatur/PIES projects"
+        }
+      ],
+      "confidence": "unverified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "kurt-richter",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://uncc.academia.edu/Departments/Center_for_Teaching_Learning/Documents",
+          "label": "'Based on the literature review for Kurt Richter's doctoral dissertation at Indiana University'"
+        }
+      ],
+      "confidence": "unverified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "sinem-aslan",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://eric.ed.gov/?id=ED552073",
+          "label": "ERIC dissertation record"
+        }
+      ],
+      "confidence": "unverified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "yeol-huh",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://www.researchgate.net/profile/Yeol-Huh",
+          "label": "PIES team co-authorships (Huh & Reigeluth 2014–2017)"
+        }
+      ],
+      "confidence": "unverified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "dabae-lee",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s11251-015-9348-7",
+          "label": "Lee, Huh & Reigeluth (2015), Instructional Science"
+        }
+      ],
+      "confidence": "unverified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "chun-yi-lin",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://www.cedtech.net/article/communication-issues-in-a-leadership-team-for-systemic-change-in-a-school-district-6030",
+          "label": "Lin & Reigeluth co-publications (2016–2021)"
+        }
+      ],
+      "confidence": "unverified"
     }
   ]
 }

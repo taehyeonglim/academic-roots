@@ -106,6 +106,30 @@ under-enumerated (true count plausibly 30–60; only 9 USU IT dissertations
 1987–2006 are digitized). Remaining lead: ProQuest advisor-field search
 ("Merrill, M. David") from a subscribed library — FSU access would work.
 
+## R6 — Reigeluth's doctoral students: 57 added (2026-07-20)
+
+**Decisive source**: Caffarella's *Doctoral Research in Educational
+Technology: A Directory of Dissertations 1977–2004* — a chair-indexed
+directory (archived at web.archive.org, cortland.edu/education/dissdir).
+Combined with the 1977–1986 AECT print directory (ERIC ED307852), IU
+commencement programs, DAI records, and students' own CVs/acknowledgments.
+
+- **Syracuse era (1978–88)**: 11 verified. **Indiana era (1988–2013)**:
+  40 verified + 6 presumed-unverified (S.L. Watson, Richter, Aslan, Huh,
+  D. Lee, C.-Y. Lin — all heavy Reigeluth-project co-authors, chair
+  statement not located).
+- **Bonus**: the directory lists Dennen (2001) under Reigeluth — the
+  documentary corroboration R1 wanted. Added to that edge's sources.
+- Scale check: Reigeluth said (2013 interview) 45 dissertations completed
+  at Indiana alone; we have 40 verified + 6 presumed ≈ consistent. 2005–2012
+  has partial coverage (directory ends 2004; only 2008/2009 IUB commencement
+  programs are online). ProQuest advisor-field search would close the gap.
+- **Myth-busts recorded**: Rodney Myers (Frick chaired; Reigeluth committee
+  only), Brian Beabout (Penn State, under Carr-Chellman — a grand-student),
+  Kyle Peck / Bernie Dodge / Gordon Rowland (not under Reigeluth in the
+  directory). Cross-link found: his student Laurie Miller Nelson later
+  co-chaired David Wiley's BYU dissertation (see R5's Wiley myth-bust).
+
 ## R4 — Photos: 3 of 4 collected ✅ (2026-07-20)
 
 All resized to 400px max via sips.

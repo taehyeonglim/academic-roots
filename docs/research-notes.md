@@ -120,10 +120,22 @@ commencement programs, DAI records, and students' own CVs/acknowledgments.
   statement not located).
 - **Bonus**: the directory lists Dennen (2001) under Reigeluth — the
   documentary corroboration R1 wanted. Added to that edge's sources.
-- Scale check: Reigeluth said (2013 interview) 45 dissertations completed
-  at Indiana alone; we have 40 verified + 6 presumed ≈ consistent. 2005–2012
-  has partial coverage (directory ends 2004; only 2008/2009 IUB commencement
-  programs are online). ProQuest advisor-field search would close the gap.
+- **Gap CLOSED (second pass, 2026-07-20)**: the decisive source is **IUCAT
+  (iucat.iu.edu)** — IU's library catalog embeds the ProQuest/DAI "Adviser:"
+  line and is queryable via public JSON API. Full sweep 2005–2016 found:
+  Doblar 2010 (new), Jung 2016 (new — previously ambiguous), M. Kim 2016
+  (new, co-advised w/ Brush), and chair evidence for all six presumed
+  advisees (S.L. Watson 2008 [co-adv. w/ Heidi Ross, legal name Sunkyung
+  Lee Watson], Richter 2007, Aslan 2012, Lin 2013, D. Lee 2015, Huh 2016).
+  **By-2013 Indiana tally is now exactly 45 — matching Reigeluth's own
+  claim.** Post-retirement completions (2015–16): D. Lee, Huh, Jung, M. Kim.
+- **Correction**: Zengguan (Joy) Chen REMOVED — his actual IU dissertation
+  (2018, design judgment) was advised by **Curtis J. Bonk** (IUCAT 17894276);
+  he was a Reigeluth PIES-team member but did not complete under him. His
+  LinkedIn "advisor" statement likely refers to pre-retirement mentorship.
+- Minor flag: Avers year — Caffarella directory says 2004, IUCAT e-record
+  2005; kept 2004. Richter's degree label conflicts (ProQuest EdD / IU
+  print PhD); kept EdD with note.
 - **Myth-busts recorded**: Rodney Myers (Frick chaired; Reigeluth committee
   only), Brian Beabout (Penn State, under Carr-Chellman — a grand-student),
   Kyle Peck / Bernie Dodge / Gordon Rowland (not under Reigeluth in the

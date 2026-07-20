@@ -2062,25 +2062,6 @@
       "currentAffiliation": "Valdosta State University"
     },
     {
-      "id": "zengguan-chen",
-      "name": "Zengguan (Joy) Chen",
-      "degree": "PhD",
-      "degreeField": "Instructional Systems Technology",
-      "institution": "Indiana University Bloomington",
-      "sources": [
-        {
-          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
-          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
-        },
-        {
-          "url": "https://www.linkedin.com/posts/dr-joy-chen-3416271_iubloomington-hoosiers-instructionalsystemstechnology-activity-7435884403278434304-I-6V",
-          "label": "Her own post: 'advisor, Dr. Charles Reigeluth, whose mentorship had a lasting impact' (primary)"
-        }
-      ],
-      "confidence": "verified",
-      "notes": "PhD ~2011 (year unconfirmed). Dissertation on communication in a leadership team for systemic change (basis of Chen & Reigeluth, 2010)."
-    },
-    {
       "id": "pratima-dutta",
       "name": "Pratima Dutta",
       "degree": "PhD",
@@ -2118,12 +2099,18 @@
         {
           "url": "https://scholar.google.com/citations?user=emm4TTcAAAAJ",
           "label": "Google Scholar profile (photo source)"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/8257539",
+          "label": "IUCAT record — DAI 69-10A: 'Advisers: Charles M. Reigeluth; Heidi A. Ross'"
         }
       ],
-      "confidence": "unverified",
+      "confidence": "verified",
       "currentAffiliation": "Professor, Purdue University",
-      "notes": "PhD ~2008. Chair statement not located — presumed advisee from sustained project co-authorship.",
-      "photo": "sunnie-lee-watson.jpg"
+      "notes": "Cataloged under legal name Sunkyung Lee Watson. Dual-department PhD (IST + Ed Policy); co-advised by Charles M. Reigeluth and Heidi A. Ross.",
+      "photo": "sunnie-lee-watson.jpg",
+      "year": 2008,
+      "dissertationTitle": "Somebody's Gotta Fight for Them: A Disadvantaged and Marginalized Alternative School's Culture of Learning and Its Case of Change"
     },
     {
       "id": "kurt-richter",
@@ -2139,11 +2126,17 @@
         {
           "url": "https://uncc.academia.edu/Departments/Center_for_Teaching_Learning/Documents",
           "label": "'Based on the literature review for Kurt Richter's doctoral dissertation at Indiana University'"
+        },
+        {
+          "url": "https://www.reigeluth.net/transformation",
+          "label": "Reigeluth's own site — lists Richter (2007) among his graduate students' Decatur dissertations (primary)"
         }
       ],
-      "confidence": "unverified",
+      "confidence": "verified",
       "currentAffiliation": "UNC Charlotte, Center for Teaching and Learning (last known)",
-      "notes": "EdD ~2009. Dissertation studied Reigeluth's Decatur project; chair statement not located."
+      "notes": "Degree label conflicts across records (ProQuest: EdD; IU print manuscript: PhD). Reigeluth's own site lists this dissertation among work by 'my graduate students'.",
+      "year": 2007,
+      "dissertationTitle": "Integration of a Decision-Making Process and a Learning Process in a Newly Formed Leadership Team for Systemic Transformation of a School District"
     },
     {
       "id": "sinem-aslan",
@@ -2163,9 +2156,13 @@
         {
           "url": "https://scholar.google.com/citations?user=8_zveS8AAAAJ",
           "label": "Google Scholar profile (photo source)"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/14556020",
+          "label": "IUCAT record — DAI 74-06(E): 'Adviser: Charles M. Reigeluth'"
         }
       ],
-      "confidence": "unverified",
+      "confidence": "verified",
       "year": 2012,
       "dissertationTitle": "Investigating 'The Coolest School in America': A Study of a Learner-Centered School and Educational Technology in the Information Age",
       "currentAffiliation": "Intel Corporation (AI/UX research)",
@@ -2190,12 +2187,18 @@
         {
           "url": "https://campus.kennesaw.edu/colleges-departments/bagwell/academics/instructional-technology-innovation/faculty-staff.php",
           "label": "Kennesaw State SITI faculty page — photo source, © KSU"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/15759792",
+          "label": "IUCAT record — DAI 77-09(E): 'Advisors: Charles M. Reigeluth'"
         }
       ],
-      "confidence": "unverified",
+      "confidence": "verified",
       "currentAffiliation": "Kennesaw State University (earlier Emporia State)",
-      "notes": "PhD ~2013. Chair statement not located.",
-      "photo": "yeol-huh.jpg"
+      "notes": "Completed after Reigeluth's 2013 retirement.",
+      "photo": "yeol-huh.jpg",
+      "year": 2016,
+      "dissertationTitle": "Exploring Teachers' Practices to Develop Students' Self-Regulated Learning in U.S. K-12 Online Schools"
     },
     {
       "id": "dabae-lee",
@@ -2215,12 +2218,18 @@
         {
           "url": "https://facultyweb.kennesaw.edu/dlee159/index.php",
           "label": "Her KSU faculty page — photo source, © KSU"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/15543110",
+          "label": "IUCAT record — DAI 76-11(E): 'Advisors: Charles M. Reigeluth'"
         }
       ],
-      "confidence": "unverified",
+      "confidence": "verified",
       "currentAffiliation": "Associate Professor, Instructional Technology, Kennesaw State University",
-      "notes": "PhD ~2013–14. Chair statement not located.",
-      "photo": "dabae-lee.jpg"
+      "notes": "Completed after Reigeluth's 2013 retirement.",
+      "photo": "dabae-lee.jpg",
+      "year": 2015,
+      "dissertationTitle": "Personalized Learning Practice, Technology Use, and Academic Performance in K-12 Learner-Centered Schools in the U.S."
     },
     {
       "id": "chun-yi-lin",
@@ -2240,12 +2249,68 @@
         {
           "url": "https://www.ed.ntnu.edu.tw/en/members/teacher110/Chun-Yi-LIN-36908453",
           "label": "NTNU Dept of Education profile — photo source, © NTNU"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/14441911",
+          "label": "IUCAT record — DAI 74-08(E): 'Adviser: Charles M. Reigeluth'"
         }
       ],
-      "confidence": "unverified",
+      "confidence": "verified",
       "currentAffiliation": "Associate Professor, National Taiwan Normal University (earlier Tamkang)",
       "notes": "PhD ~2014, completed around Reigeluth's retirement — possibly co-chaired. Chair statement not located.",
-      "photo": "chun-yi-lin.jpg"
+      "photo": "chun-yi-lin.jpg",
+      "year": 2013,
+      "dissertationTitle": "Instructional Theory for Using a Class Wiki to Support Collaborative Learning in Higher Education"
+    },
+    {
+      "id": "douglas-doblar",
+      "name": "D. Douglas Doblar",
+      "degree": "PhD",
+      "institution": "Indiana University Bloomington",
+      "degreeField": "Instructional Systems Technology",
+      "year": 2010,
+      "dissertationTitle": "Formative Research on the School System Transformation Protocol: A Design Team's Strategy for Redesign",
+      "sources": [
+        {
+          "url": "https://iucat.iu.edu/catalog/10115431",
+          "label": "IUCAT record — DAI 72-03A: 'Adviser: Charles Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "eulho-jung",
+      "name": "Eulho Jung",
+      "degree": "PhD",
+      "institution": "Indiana University Bloomington",
+      "degreeField": "Instructional Systems Technology",
+      "year": 2016,
+      "dissertationTitle": "Expertise Development through Accelerated Learning: A Multiple-Case Study on Instructional Principles",
+      "sources": [
+        {
+          "url": "https://iucat.iu.edu/catalog/15735935",
+          "label": "IUCAT record — DAI 77-08(E): 'Advisors: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Completed after Reigeluth's 2013 retirement."
+    },
+    {
+      "id": "minkyoung-kim",
+      "name": "Minkyoung Kim",
+      "degree": "PhD",
+      "institution": "Indiana University Bloomington",
+      "degreeField": "Instructional Systems Technology",
+      "year": 2016,
+      "dissertationTitle": "Formative Research on Instructional Overlay for Collaborative Project-Based Learning",
+      "sources": [
+        {
+          "url": "https://iucat.iu.edu/catalog/16054246",
+          "label": "IUCAT record — DAI 78-02(E): 'Advisors: Charles M. Reigeluth; Thomas A. Brush'"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Co-advised by Thomas A. Brush."
     }
   ],
   "relationships": [
@@ -3479,22 +3544,6 @@
     },
     {
       "advisorId": "charles-reigeluth",
-      "studentId": "zengguan-chen",
-      "type": "advisor",
-      "sources": [
-        {
-          "url": "http://web.archive.org/web/20050115151709/http://cortland.edu:80/education/dissdir/charalor.htm",
-          "label": "Caffarella, Doctoral Research in Educational Technology 1977–2004 — chair-indexed directory (archived)"
-        },
-        {
-          "url": "https://www.linkedin.com/posts/dr-joy-chen-3416271_iubloomington-hoosiers-instructionalsystemstechnology-activity-7435884403278434304-I-6V",
-          "label": "Her own post: 'advisor, Dr. Charles Reigeluth, whose mentorship had a lasting impact' (primary)"
-        }
-      ],
-      "confidence": "verified"
-    },
-    {
-      "advisorId": "charles-reigeluth",
       "studentId": "pratima-dutta",
       "type": "advisor",
       "sources": [
@@ -3512,14 +3561,18 @@
     {
       "advisorId": "charles-reigeluth",
       "studentId": "sunnie-lee-watson",
-      "type": "advisor",
+      "type": "co-advisor",
       "sources": [
         {
           "url": "https://web.ics.purdue.edu/~brwatson/publications/systems_handbook_chapter.pdf",
           "label": "Extensive co-authorship on Reigeluth's Decatur/PIES projects"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/8257539",
+          "label": "IUCAT record — DAI 69-10A: 'Advisers: Charles M. Reigeluth; Heidi A. Ross'"
         }
       ],
-      "confidence": "unverified"
+      "confidence": "verified"
     },
     {
       "advisorId": "charles-reigeluth",
@@ -3529,9 +3582,13 @@
         {
           "url": "https://uncc.academia.edu/Departments/Center_for_Teaching_Learning/Documents",
           "label": "'Based on the literature review for Kurt Richter's doctoral dissertation at Indiana University'"
+        },
+        {
+          "url": "https://www.reigeluth.net/transformation",
+          "label": "Reigeluth's own site — lists Richter (2007) among his graduate students' Decatur dissertations (primary)"
         }
       ],
-      "confidence": "unverified"
+      "confidence": "verified"
     },
     {
       "advisorId": "charles-reigeluth",
@@ -3541,9 +3598,13 @@
         {
           "url": "https://eric.ed.gov/?id=ED552073",
           "label": "ERIC dissertation record"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/14556020",
+          "label": "IUCAT record — DAI 74-06(E): 'Adviser: Charles M. Reigeluth'"
         }
       ],
-      "confidence": "unverified"
+      "confidence": "verified"
     },
     {
       "advisorId": "charles-reigeluth",
@@ -3553,9 +3614,13 @@
         {
           "url": "https://www.researchgate.net/profile/Yeol-Huh",
           "label": "PIES team co-authorships (Huh & Reigeluth 2014–2017)"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/15759792",
+          "label": "IUCAT record — DAI 77-09(E): 'Advisors: Charles M. Reigeluth'"
         }
       ],
-      "confidence": "unverified"
+      "confidence": "verified"
     },
     {
       "advisorId": "charles-reigeluth",
@@ -3565,9 +3630,13 @@
         {
           "url": "https://link.springer.com/article/10.1007/s11251-015-9348-7",
           "label": "Lee, Huh & Reigeluth (2015), Instructional Science"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/15543110",
+          "label": "IUCAT record — DAI 76-11(E): 'Advisors: Charles M. Reigeluth'"
         }
       ],
-      "confidence": "unverified"
+      "confidence": "verified"
     },
     {
       "advisorId": "charles-reigeluth",
@@ -3577,9 +3646,49 @@
         {
           "url": "https://www.cedtech.net/article/communication-issues-in-a-leadership-team-for-systemic-change-in-a-school-district-6030",
           "label": "Lin & Reigeluth co-publications (2016–2021)"
+        },
+        {
+          "url": "https://iucat.iu.edu/catalog/14441911",
+          "label": "IUCAT record — DAI 74-08(E): 'Adviser: Charles M. Reigeluth'"
         }
       ],
-      "confidence": "unverified"
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "douglas-doblar",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://iucat.iu.edu/catalog/10115431",
+          "label": "IUCAT record — DAI 72-03A: 'Adviser: Charles Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "eulho-jung",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://iucat.iu.edu/catalog/15735935",
+          "label": "IUCAT record — DAI 77-08(E): 'Advisors: Charles M. Reigeluth'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "minkyoung-kim",
+      "type": "co-advisor",
+      "sources": [
+        {
+          "url": "https://iucat.iu.edu/catalog/16054246",
+          "label": "IUCAT record — DAI 78-02(E): 'Advisors: Charles M. Reigeluth; Thomas A. Brush'"
+        }
+      ],
+      "confidence": "verified"
     }
   ]
 }

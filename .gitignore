@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.gjc/
+.DS_Store
+*.local
+npm-debug.log*

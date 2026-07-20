@@ -1,0 +1,62 @@
+{
+  "people": [
+    {
+      "id": "vanessa-dennen",
+      "name": "Vanessa P. Dennen",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems Technology",
+      "institution": "Indiana University Bloomington",
+      "year": 2001,
+      "dissertationTitle": "The design and facilitation of asynchronous discussion activities in Web-based courses",
+      "currentAffiliation": "Professor, Instructional Systems & Learning Technologies, Florida State University",
+      "links": { "homepage": "https://vanessadennen.com" },
+      "sources": [{ "url": "https://vanessadennen.com", "label": "Personal site / CV" }],
+      "confidence": "verified",
+      "role": "anchor"
+    },
+    {
+      "id": "charles-reigeluth",
+      "name": "Charles M. Reigeluth",
+      "degree": "PhD",
+      "degreeField": "Instructional Psychology",
+      "institution": "Brigham Young University",
+      "currentAffiliation": "Professor Emeritus, Indiana University",
+      "links": { "wikipedia": "https://en.wikipedia.org/wiki/Charles_Reigeluth" },
+      "sources": [{ "url": "https://en.wikipedia.org/wiki/Charles_Reigeluth", "label": "Wikipedia" }],
+      "confidence": "verified",
+      "notes": "Person facts verified. Advisor relationship to Dennen confirmed directly by her advisee (2026-07-20)."
+    },
+    {
+      "id": "taehyeong-lim",
+      "name": "Taehyeong Lim",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "sources": [{ "url": "https://vanessadennen.com", "label": "Placeholder — replace with real source" }],
+      "confidence": "unverified",
+      "role": "self",
+      "notes": "PLACEHOLDER for the site owner — edit name/year/dissertation as needed."
+    }
+  ],
+  "relationships": [
+    {
+      "advisorId": "charles-reigeluth",
+      "studentId": "vanessa-dennen",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://vanessadennen.com",
+          "label": "Confirmed by advisee (site owner), 2026-07-20 — add ProQuest record URL (R1)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "taehyeong-lim",
+      "type": "advisor",
+      "sources": [{ "url": "https://vanessadennen.com", "label": "Advisor's CV (confirm listing)" }],
+      "confidence": "unverified"
+    }
+  ]
+}

@@ -27,14 +27,26 @@ Chain (advisor → student), all edges primary-sourced:
   ED542982): "Dave Merrill was my primary advisor at Brigham Young University."
 - **Reigeluth → Dennen** (R1), **Dennen → site owner**.
 
-**Dead end: Stolurow's own advisor.** PhD Experimental Psychology, University
-of Pittsburgh, 1947 (source: 2009 La Jolla Light family obituary — the ONLY
-source for his education; career facts are multi-sourced). No source names his
-advisor or dissertation title. Exhausted: psychtree/neurotree (no profile),
-Wikidata (no entity), Pitt D-Scholarship (starts later), Illinois/Iowa/Harvard
-archives, Google Books. Next leads if pushed further: ProQuest record for
-Stolurow 1947; Univ. of Pittsburgh Archives; acknowledgments of his 1948 JCPP
-paper "Rodent behavior in the presence of barriers" (APA PsycNet, paywalled).
+**Dead end: Stolurow's own advisor** (two research passes, 2026-07-20). His
+education is now VERIFIED — PhD Experimental Psychology, Pittsburgh 1947,
+confirmed by the family obituary AND the American Psychologist memorial
+(Triandis & Brennan 2010, psycnet.apa.org/record/2010-17989-007), which also
+gives the dissertation title: "The Control of a Hunger Drive in the Rat by the
+Metabolic Maintenance Method" (corroborated by his own 1948 JCPP paper's
+reference list). But NO accessible document names his dissertation director.
+The 1948/1951 dissertation papers are sole-authored (no senior co-author
+clue); no digitized Pitt thesis-abstract volume exists; John C. Flanagan
+(Pitt ~1946) is not a credible candidate (wrong field, arrived too late).
+
+Remaining OFFLINE leads, in order of promise:
+1. **Univ. of Pittsburgh Archives Service Center** — request the
+   acknowledgments/preface page of the 1947 dissertation (title above).
+2. First-page footnotes of J. Comp. Physiol. Psychol. 41(3):219 (1948) and
+   J. Genetic Psychol. 79:289 (1951) via an institutional APA/T&F
+   subscription — 1940s papers routinely footnote "under the direction of
+   Professor ___". (FSU library access would work.)
+3. American Men of Science 8th ed. (1949) Stolurow entry — corroboration
+   only, unlikely to name the advisor.
 
 Not found (open records): dissertation titles for Reigeluth (1977 BYU — topic
 known: TICCIT CAI experiment) and Merrill (1964 Illinois — published as

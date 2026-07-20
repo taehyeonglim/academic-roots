@@ -108,10 +108,19 @@
         {
           "url": "https://files.archon.library.illinois.edu/uasfa/1519822.pdf",
           "label": "Univ. of Illinois Archives finding aid (Illinois period records)"
+        },
+        {
+          "url": "https://psycnet.apa.org/record/2010-17989-007",
+          "label": "Triandis & Brennan (2010), American Psychologist memorial — PhD Pittsburgh 1947 + dissertation title"
+        },
+        {
+          "url": "https://psycnet.apa.org/record/1948-04205-001",
+          "label": "Stolurow (1948) JCPP — reference list cites the 1947 dissertation (title corroboration)"
         }
       ],
-      "confidence": "unverified",
-      "notes": "Career well documented (Illinois Training Research Lab 1953–66, Harvard CAI Lab 1966–71, SUNY Stony Brook, Iowa). Education facts (PhD Pittsburgh 1947) rest on the family obituary only. His own doctoral advisor is undocumented — the chain's current dead end. No photo found in any acceptable source (pre-web era)."
+      "confidence": "verified",
+      "notes": "Education facts now verified by two independent sources (family obituary + American Psychologist memorial). Career: Illinois Training Research Lab 1953–66 (SOCRATES CAI), Harvard CAI Lab 1966–71, SUNY Stony Brook, Iowa. His own doctoral advisor remains undocumented — the chain's dead end; the 1947 dissertation's acknowledgments page at Univ. of Pittsburgh Archives is the best remaining lead. No photo found in any acceptable source (pre-web era).",
+      "dissertationTitle": "The Control of a Hunger Drive in the Rat by the Metabolic Maintenance Method: An Apparatus for the Measurement of Motivation"
     },
     {
       "id": "taehyeong-lim",

@@ -142,7 +142,7 @@
     },
     {
       "id": "c-o-fyle",
-      "name": "C. O. Fyle",
+      "name": "Clifford Omodele Fyle",
       "degree": "PhD",
       "degreeField": "Instructional Systems",
       "institution": "Florida State University",
@@ -152,6 +152,10 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section (archived 2023-08-02)"
+        },
+        {
+          "url": "https://eric.ed.gov/?id=ED535375",
+          "label": "ERIC dissertation record (full name)"
         }
       ],
       "confidence": "verified"
@@ -178,19 +182,28 @@
     },
     {
       "id": "k-i-wieland",
-      "name": "K. I. Wieland",
+      "name": "Kristina Wieland",
       "degree": "PhD",
       "degreeField": "Instructional Systems",
       "institution": "Florida State University",
       "year": 2011,
-      "dissertationTitle": "The Impact of Collaborative Supports and Scripts on Student Performance in Online Tasks",
+      "dissertationTitle": "The Effects of Different Computer-Supported Collaboration Scripts on Students' Learning Processes and Outcome in a Simulation-Based Collaborative Learning Environment",
       "sources": [
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://eric.ed.gov/?id=ED535110",
+          "label": "ERIC dissertation record (full name, deposited title)"
+        },
+        {
+          "url": "https://doi.org/10.1080/01587910701611328",
+          "label": "Dennen & Wieland, Distance Education 2007 (name corroboration)"
         }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "Dennen's CV lists the working title 'The Impact of Collaborative Supports and Scripts on Student Performance in Online Tasks'; the deposited dissertation carries the title above (ProQuest 2010, CV graduation 2011)."
     },
     {
       "id": "jean-marc-wise",
@@ -216,32 +229,41 @@
     },
     {
       "id": "m-sota",
-      "name": "M. Sota",
+      "name": "Melinda Sota",
       "degree": "PhD",
       "degreeField": "Instructional Systems",
       "institution": "Florida State University",
       "year": 2012,
-      "dissertationTitle": "Metaphor as a Facilitator of Conceptual Change",
+      "dissertationTitle": "The Effect of Contrasting Analogies on Understanding of and Reasoning About Natural Selection",
       "sources": [
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "http://web.archive.org/web/20240718042138/https://diginole.lib.fsu.edu/islandora/object/fsu:183124",
+          "label": "DigiNole ETD record (archived) — full name, final title, Dennen directing"
         }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "notes": "Dennen's CV lists the working title 'Metaphor as a Facilitator of Conceptual Change'; the deposited FSU dissertation carries the title above."
     },
     {
       "id": "j-b-myers",
-      "name": "J. B. Myers",
+      "name": "Jennifer B. Myers",
       "degree": "PhD",
       "degreeField": "Instructional Systems",
       "institution": "Florida State University",
       "year": 2013,
-      "dissertationTitle": "An Examination of Self-Regulated Learning within Online Informal Communities of Practice: Is Professional Growth Occurring?",
+      "dissertationTitle": "An Examination of Self-Regulated Learning and Professional Growth within Online, Informal Communities of Practice",
       "sources": [
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://eric.ed.gov/?id=ED554095",
+          "label": "ERIC dissertation record (full name, deposited title)"
         }
       ],
       "confidence": "verified"
@@ -274,7 +296,7 @@
     },
     {
       "id": "m-h-joo",
-      "name": "M. H. Joo",
+      "name": "Min-Ho Joo",
       "degree": "PhD",
       "degreeField": "Instructional Systems",
       "institution": "Florida State University",
@@ -284,13 +306,17 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://doi.org/10.1177/1046496416685159",
+          "label": "Joo & Dennen, Small Group Research 2017 (name corroboration)"
         }
       ],
       "confidence": "verified"
     },
     {
       "id": "s-hao",
-      "name": "S. Hao",
+      "name": "Shuang Hao",
       "degree": "PhD",
       "degreeField": "Instructional Systems",
       "institution": "Florida State University",
@@ -300,6 +326,10 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://eric.ed.gov/?id=ED570610",
+          "label": "ERIC dissertation record (full name)"
         }
       ],
       "confidence": "verified"
@@ -322,7 +352,7 @@
     },
     {
       "id": "w-jiang",
-      "name": "W. Jiang",
+      "name": "Wenting Jiang",
       "degree": "PhD",
       "degreeField": "Instructional Systems",
       "institution": "Florida State University",
@@ -332,13 +362,17 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://eric.ed.gov/?id=ED570609",
+          "label": "ERIC dissertation record (full name)"
         }
       ],
       "confidence": "verified"
     },
     {
       "id": "a-chauhan",
-      "name": "A. Chauhan",
+      "name": "Amit Chauhan",
       "degree": "PhD",
       "degreeField": "Instructional Systems",
       "institution": "Florida State University",
@@ -348,6 +382,10 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://doi.org/10.1089/mooc.2013.0008",
+          "label": "Dennen & Chauhan, MOOCs Forum 2013 (name corroboration)"
         }
       ],
       "confidence": "verified"
@@ -380,7 +418,7 @@
     },
     {
       "id": "x-xue",
-      "name": "X. Xue",
+      "name": "Xinrong Xue",
       "degree": "PhD",
       "degreeField": "Instructional Systems",
       "institution": "Florida State University",
@@ -390,6 +428,10 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://registrar.fsu.edu/sites/g/files/upcbnu3886/files/documents/archive-commencement-programs/2017-6.pdf",
+          "label": "FSU Summer 2017 commencement program — full name, title, Major Professor: Dennen"
         }
       ],
       "confidence": "verified"
@@ -422,7 +464,7 @@
     },
     {
       "id": "n-a-puplampu",
-      "name": "N. A. Puplampu",
+      "name": "Nefertiti Adikwo Puplampu",
       "degree": "PhD",
       "degreeField": "Instructional Systems & Learning Technologies",
       "institution": "Florida State University",
@@ -432,13 +474,17 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://registrar.fsu.edu/sites/g/files/upcbnu3886/files/documents/archive-commencement-programs/2018-9.pdf",
+          "label": "FSU Fall 2018 commencement program — full name, title, Major Professor: Dennen"
         }
       ],
       "confidence": "verified"
     },
     {
       "id": "f-b-marshall",
-      "name": "F. B. Marshall",
+      "name": "Francisca Butac Marshall",
       "degree": "PhD",
       "degreeField": "Instructional Systems & Learning Technologies",
       "institution": "Florida State University",
@@ -448,6 +494,10 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://registrar.fsu.edu/sites/g/files/upcbnu3886/files/documents/archive-commencement-programs/2019-9.pdf",
+          "label": "FSU Fall 2019 commencement program — full name, title, Major Professor: Dennen"
         }
       ],
       "confidence": "verified",
@@ -839,8 +889,8 @@
     },
     {
       "id": "s-n-beauford",
-      "name": "S. N. Beauford",
-      "degree": "PhD",
+      "name": "Shané Nicole Beauford",
+      "degree": "EdD",
       "degreeField": "Instructional Systems & Learning Technologies",
       "institution": "Florida State University",
       "year": 2023,
@@ -852,10 +902,15 @@
         {
           "url": "https://repository.lib.fsu.edu/islandora/object/fsu:883172/datastream/PDF/view",
           "label": "Dissertation PDF (DigiNole) — acknowledgments thank Dennen"
+        },
+        {
+          "url": "http://web.archive.org/web/20240804052326/https://diginole.lib.fsu.edu/islandora/object/fsu%3A883172",
+          "label": "DigiNole ETD record (archived) — full name, title, EdD, Dennen directing"
         }
       ],
-      "confidence": "unverified",
-      "notes": "Preservice-teacher study (interviews Nov 2022–Jan 2023); full title, graduation year, and directing-role metadata not directly confirmed (repository outage)."
+      "confidence": "verified",
+      "notes": "EdD 2023. Committee: Dennen (directing), Rutledge (univ. rep.), Ke, Klein.",
+      "dissertationTitle": "Preservice Teachers' Perceptions and Readiness Entering Culturally and Linguistically Diverse Classrooms"
     }
   ],
   "relationships": [
@@ -1319,9 +1374,13 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        },
+        {
+          "url": "http://web.archive.org/web/20240804052326/https://diginole.lib.fsu.edu/islandora/object/fsu%3A883172",
+          "label": "DigiNole ETD record (archived) — Dennen professor directing dissertation"
         }
       ],
-      "confidence": "unverified"
+      "confidence": "verified"
     }
   ]
 }

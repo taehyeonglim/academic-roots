@@ -55,10 +55,19 @@ Merrill 1965, J. Educational Psychology 56(5), 225-234).
 - Her college profile says "more than 30 doctoral students" graduated —
   consistent with the 34 in the dataset.
 
-**Re-verify when FSU repository is back up** (it returned 504 all session):
-exact titles / degree type (PhD vs EdD) / semester for He, Word, Shi, Park,
-Jung, Beauford, Crombie, Khamitova, Cates, Jones. Marked `unverified` or noted
-in the dataset where applicable.
+**Full names resolved for all 12 initials-only entries (2026-07-20)** via ERIC
+dissertation records, FSU commencement program PDFs (registrar.fsu.edu
+archive — excellent source: full name + title + "Major Professor" in one
+document), co-authored publications (Crossref), and Wayback-archived DigiNole
+records. Notable corrections: Sota's and Wieland's CV-listed titles were
+working titles — the deposited dissertations carry different final titles (see
+dataset notes); Myers' is a minor variant. Beauford confirmed EdD 2023 and
+upgraded to verified via archived ETD record.
+
+**Re-verify when FSU repository is back up** (it returned 504 all session;
+archived snapshots used where available): exact titles / degree type / semester
+for He, Word, Shi, Park, Jung, Crombie, Khamitova, Cates, Jones. Marked
+`unverified` or noted in the dataset where applicable.
 
 **Known in-progress (NOT included)**: Young B. K., Adolfson, Lott (chaired
 candidates still listed as current students, July 2026); Tang (may be MS

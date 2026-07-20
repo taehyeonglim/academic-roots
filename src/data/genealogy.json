@@ -111,10 +111,612 @@
       "degree": "PhD",
       "degreeField": "Instructional Systems & Learning Technologies",
       "institution": "Florida State University",
-      "sources": [{ "url": "https://vanessadennen.com", "label": "Placeholder — replace with real source" }],
+      "year": 2018,
+      "dissertationTitle": "Featured Student Profiles: An Instructional Blogging Strategy to Promote Student Interactions in Online Courses",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section (archived 2023-08-02)"
+        },
+        {
+          "url": "http://isfsu.blogspot.com/2018/03/",
+          "label": "FSU ISLT blog — defense announcement, March 30, 2018 (Major Professor: Dennen)"
+        }
+      ],
+      "confidence": "verified",
+      "role": "self"
+    },
+    {
+      "id": "c-o-fyle",
+      "name": "C. O. Fyle",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2009,
+      "dissertationTitle": "The Effects of Field Dependent/Independent Style Awareness on Learning Strategies and Outcomes in an Instructional Hypermedia Module",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section (archived 2023-08-02)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "wayne-slabon",
+      "name": "Wayne A. Slabon",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2009,
+      "dissertationTitle": "Learning by Restorying: A Naturalistic Case Study of an Instructional Strategy in a Master's Level Conflict Management Course",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        { "url": "https://repository.lib.fsu.edu/islandora/object/fsu:176181", "label": "DigiNole ETD record" }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "k-i-wieland",
+      "name": "K. I. Wieland",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2011,
+      "dissertationTitle": "The Impact of Collaborative Supports and Scripts on Student Performance in Online Tasks",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "jean-marc-wise",
+      "name": "Jean-Marc Wise",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2011,
+      "dissertationTitle": "The Effect of In-Class Presentations on Undergraduate Students' Responsiveness to Online Course Evaluations and the Quality of Their Feedback",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "m-sota",
+      "name": "M. Sota",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2012,
+      "dissertationTitle": "Metaphor as a Facilitator of Conceptual Change",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "j-b-myers",
+      "name": "J. B. Myers",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2013,
+      "dissertationTitle": "An Examination of Self-Regulated Learning within Online Informal Communities of Practice: Is Professional Growth Occurring?",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "yvonne-earnshaw",
+      "name": "Yvonne C. Earnshaw",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2014,
+      "dissertationTitle": "The Effects of Different Levels of Instructional Guidance on Mathematics Problem-Solving and Attitude in Web-based Instruction",
+      "currentAffiliation": "Assistant Professor, Instructional Design and Technology, Kennesaw State University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        { "url": "https://www.researchgate.net/profile/Yvonne-Earnshaw", "label": "ResearchGate (affiliation)" }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "m-h-joo",
+      "name": "M. H. Joo",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2015,
+      "dissertationTitle": "How University Students Contribute to Group Work: Using a Structural Equation Modeling Approach",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "s-hao",
+      "name": "S. Hao",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2016,
+      "dissertationTitle": "Effects of Faded Scaffolding in Computer-Based Instruction on Learners' Performance, Cognitive Load, and Test Anxiety",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "bi-jen-hsieh",
+      "name": "Bi-Jen Hsieh",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2016,
+      "dissertationTitle": "The Effects of Reflection on Student's Technology Integration Self-Efficacy in an Educational Technology Course",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "w-jiang",
+      "name": "W. Jiang",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2016,
+      "dissertationTitle": "Role Assignment and Sense of Community in an Online Course",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "a-chauhan",
+      "name": "A. Chauhan",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2017,
+      "dissertationTitle": "Using Social Network Analysis (SNA) Feedback to Explore Patterns of Participation and Interaction in Online Discussions",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "yasin-yalcin",
+      "name": "Yasin Yalcin",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2017,
+      "dissertationTitle": "Online Learners' Satisfaction: Investigating the Structural Relationships among Self-Regulation, Self-Efficacy, Task Value, Learning Design, and Perceived Learning",
+      "currentAffiliation": "Assistant Professor, Recep Tayyip Erdoğan University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        { "url": "https://www.researchgate.net/profile/Yasin-Yalcin", "label": "ResearchGate (affiliation)" }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "x-xue",
+      "name": "X. Xue",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems",
+      "institution": "Florida State University",
+      "year": 2017,
+      "dissertationTitle": "Effects of Different Types of Annotations on College Students' Foreign Language Learning in the Synchronous Multimodal Computer-Mediated Communication Environment",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "fabrizio-fornara",
+      "name": "Fabrizio Fornara",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2018,
+      "dissertationTitle": "Instagram for the Development of Foreign Language Students' Intercultural Competence",
+      "currentAffiliation": "Head, Center for Teaching and Learning, SUPSI (Switzerland)",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "http://isfsu.blogspot.com/2018/03/",
+          "label": "FSU ISLT blog — defense announcement, April 4, 2018 (Major Professor: Dennen)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "n-a-puplampu",
+      "name": "N. A. Puplampu",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2018,
+      "dissertationTitle": "Effects of Instructional Strategies Based on the MUSIC Model of Academic Motivation on Undergraduate Mathematics Students' Subject Learning",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "f-b-marshall",
+      "name": "F. B. Marshall",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2019,
+      "dissertationTitle": "The Effects of Embedding Questions at Different Temporal Locations within Instructional Videos on Perception and Performance",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Degree type (PhD/EdD) unconfirmed."
+    },
+    {
+      "id": "ji-yae-bong",
+      "name": "Ji Yae Bong",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2020,
+      "dissertationTitle": "A Qualitative Exploration of Designing Online Reciprocal Teaching for Scaffolding Metacognitive Strategy Use for College Students",
+      "currentAffiliation": "Assistant Professor, Learning, Design and Technology, UNC Charlotte",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "http://web.archive.org/web/20210125144954/https://calendar.fsu.edu/event/bong_ji_yae_-_dissertation_defense",
+          "label": "FSU calendar defense announcement (Chair: Dennen)"
+        },
+        { "url": "https://edld.charlotte.edu/people/ji-yae-bong/", "label": "UNC Charlotte profile (affiliation)" }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "zhongrui-yao",
+      "name": "Zhongrui Yao",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2020,
+      "dissertationTitle": "A University Program for Faculty-Librarian OER Partnerships: An Activity Systems Analysis",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:770679",
+          "label": "DigiNole ETD record — 'Vanessa Dennen, Professor Directing Dissertation'"
+        },
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "hajeen-choi",
+      "name": "Hajeen Choi",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2022,
+      "dissertationTitle": "Situational Motivation and Participation in Online Discussion: A Multiple Case Study",
+      "currentAffiliation": "Assistant Teaching Professor, Applied Technology, Bowling Green State University",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:875327",
+          "label": "DigiNole ETD record — Dennen professor directing dissertation"
+        },
+        { "url": "https://www.researchgate.net/profile/Hajeen-Choi", "label": "ResearchGate (affiliation)" }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "lauren-bagdy",
+      "name": "Lauren M. Bagdy",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2022,
+      "dissertationTitle": "An Exploration of Teenagers' Use of Affinity Spaces on Social Media Platforms for Informal Learning",
+      "currentAffiliation": "Assistant Professor, Workforce Education and Instructional Technology, University of Georgia",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:826701",
+          "label": "DigiNole ETD record — Dennen professor directing dissertation"
+        },
+        { "url": "https://people.coe.uga.edu/lauren-bagdy/", "label": "University of Georgia profile (affiliation)" }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "aiman-khamitova",
+      "name": "Aiman Khamitova",
+      "degree": "EdD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2022,
+      "currentAffiliation": "Nazarbayev University (Kazakhstan)",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://purl.lib.fsu.edu/diginole/2022_Khamitova_fsu_0071E_17135",
+          "label": "DigiNole PURL"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Dissertation on faculty training for active learning classroom usage at Nazarbayev University; exact title wording unconfirmed (repository outage during research)."
+    },
+    {
+      "id": "michelle-cates",
+      "name": "Michelle L. Cates",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2022,
+      "dissertationTitle": "School Librarians Employing Social Media for Professional Learning: A Profile of Platforms and User Roles",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:883198/datastream/PDF/download",
+          "label": "Dissertation PDF (DigiNole)"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Degree type (PhD/EdD) unconfirmed."
+    },
+    {
+      "id": "melissa-jones",
+      "name": "Melissa K. Jones",
+      "degree": "EdD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2022,
+      "dissertationTitle": "The Evolving Landscape of LGBTQ+ Support in Higher Education: A Qualitative Study of Initiatives and Leadership Practices in Large Public Universities",
+      "currentAffiliation": "Dartmouth College",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        { "url": "https://scholar.google.com/citations?user=9n34L68AAAAJ", "label": "Google Scholar (affiliation)" },
+        { "url": "https://cehhs.fsu.edu/blog/student-spotlight-melissa-jones", "label": "FSU student spotlight" }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "bruce-screws",
+      "name": "Bruce E. Screws, Jr.",
+      "degree": "EdD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2022,
+      "dissertationTitle": "Online Sojourner Communities: What Can Sojourners Learn from Them and Do They Aid Cultural Adapation?",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:887525",
+          "label": "DigiNole ETD record — 'Vanessa P. Dennen, Professor Directing Dissertation'"
+        },
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Title spelling 'Adapation' is as it appears in the ETD record."
+    },
+    {
+      "id": "omer-arslan",
+      "name": "Ömer Arslan",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2023,
+      "dissertationTitle": "Student Perceptions of and Preferences for Online Instructor Course Introductions",
+      "currentAffiliation": "Instructional Technologist, Herbert Wertheim College of Business, Florida State University",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:882672",
+          "label": "DigiNole ETD record — Dennen professor directing dissertation"
+        },
+        { "url": "https://wertheim.fsu.edu/person/omer-arslan", "label": "FSU Wertheim profile (affiliation)" }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "id": "dan-he",
+      "name": "Dan He",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2024,
+      "dissertationTitle": "Support-Seeking on Social Media: Navigating Acculturation and Academic Integration among International Graduate Students",
+      "currentAffiliation": "University of Texas at Dallas",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        },
+        { "url": "https://scholar.google.pt/citations?user=s4bmeegAAAAJ", "label": "Google Scholar (dissertation + affiliation)" }
+      ],
+      "confidence": "verified",
+      "notes": "ETD record not directly inspected (repository outage during research)."
+    },
+    {
+      "id": "kari-word",
+      "name": "Kari (Knisely) Word",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2025,
+      "currentAffiliation": "Founder, Instructional Design Studio LLC",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        },
+        { "url": "https://kariword.com/", "label": "Personal site — defense March 5, 2025 (primary)" }
+      ],
+      "confidence": "verified",
+      "notes": "Dissertation on how women use the Internet to learn about endometriosis; exact title unconfirmed."
+    },
+    {
+      "id": "hui-shi",
+      "name": "Hui Shi",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2025,
+      "dissertationTitle": "Promoting the Progression of Collaborative Ill-Structured Problem-Solving: The Roles of Socially Shared Metacognition and Group Scaffolds",
+      "currentAffiliation": "Assistant Professor, Faculty of Artificial Intelligence in Education, Central China Normal University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral student under chair section (2023)"
+        },
+        { "url": "https://scholar.google.com/citations?user=laSfCbIAAAAJ", "label": "Google Scholar (dissertation + affiliation)" }
+      ],
+      "confidence": "verified",
+      "notes": "ETD record not directly inspected (repository outage during research)."
+    },
+    {
+      "id": "megan-crombie",
+      "name": "Megan Crombie",
+      "degree": "EdD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2025,
+      "dissertationTitle": "Teacher Collaboration through Horizontal and Vertical Teams",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:1041738",
+          "label": "DigiNole ETD record — 'Vanessa P. Dennen, professor directing dissertation'"
+        },
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral student under chair section (2023)"
+        }
+      ],
+      "confidence": "verified",
+      "notes": "Degree type likely EdD (unconfirmed)."
+    },
+    {
+      "id": "yujin-park",
+      "name": "Yujin Park",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "currentAffiliation": "Assistant Professor, College of Integrative Sciences and Arts, Arizona State University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        },
+        { "url": "https://meme.create.fsu.edu/yujin-park/", "label": "MEME lab profile (dissertation topic)" },
+        { "url": "https://asu.elsevierpure.com/en/persons/yujin-park/", "label": "ASU profile (affiliation)" }
+      ],
       "confidence": "unverified",
-      "role": "self",
-      "notes": "PLACEHOLDER for the site owner — edit name/year/dissertation as needed."
+      "notes": "Graduation year (~2024) and final dissertation title unconfirmed. Topic: teachers as curators of digital resources and Personal Learning Networks."
+    },
+    {
+      "id": "daeun-jung",
+      "name": "Daeun Jung",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        },
+        { "url": "https://meme.create.fsu.edu/daeun-jung/", "label": "MEME lab profile (dissertation topic)" }
+      ],
+      "confidence": "unverified",
+      "notes": "Listed as MEME lab alumna (July 2026) but no ETD record found — graduation inferred. Topic: social media usage and disadvantaged students' college access."
+    },
+    {
+      "id": "s-n-beauford",
+      "name": "S. N. Beauford",
+      "degree": "PhD",
+      "degreeField": "Instructional Systems & Learning Technologies",
+      "institution": "Florida State University",
+      "year": 2023,
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        },
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:883172/datastream/PDF/view",
+          "label": "Dissertation PDF (DigiNole) — acknowledgments thank Dennen"
+        }
+      ],
+      "confidence": "unverified",
+      "notes": "Preservice-teacher study (interviews Nov 2022–Jan 2023); full title, graduation year, and directing-role metadata not directly confirmed (repository outage)."
     }
   ],
   "relationships": [
@@ -162,7 +764,421 @@
       "advisorId": "vanessa-dennen",
       "studentId": "taehyeong-lim",
       "type": "advisor",
-      "sources": [{ "url": "https://vanessadennen.com", "label": "Advisor's CV (confirm listing)" }],
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "http://isfsu.blogspot.com/2018/03/",
+          "label": "FSU ISLT blog — defense announcement (Major Professor: Dennen, Vanessa)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "c-o-fyle",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "wayne-slabon",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "k-i-wieland",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "jean-marc-wise",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "m-sota",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "j-b-myers",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "yvonne-earnshaw",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "m-h-joo",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "s-hao",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "bi-jen-hsieh",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "w-jiang",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "a-chauhan",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "yasin-yalcin",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "x-xue",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "fabrizio-fornara",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://isfsu.blogspot.com/2018/03/",
+          "label": "FSU ISLT blog — defense announcement (Major Professor: Dennen)"
+        },
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "n-a-puplampu",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "f-b-marshall",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "ji-yae-bong",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20210125144954/https://calendar.fsu.edu/event/bong_ji_yae_-_dissertation_defense",
+          "label": "FSU calendar defense announcement (Chair: Dennen, Vanessa P)"
+        },
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "zhongrui-yao",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:770679",
+          "label": "DigiNole ETD record — 'Vanessa Dennen, Professor Directing Dissertation'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "hajeen-choi",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:875327",
+          "label": "DigiNole ETD record — Dennen professor directing dissertation"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "lauren-bagdy",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:826701",
+          "label": "DigiNole ETD record — Dennen professor directing dissertation"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "aiman-khamitova",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "michelle-cates",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "melissa-jones",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "bruce-screws",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:887525",
+          "label": "DigiNole ETD record — 'Vanessa P. Dennen, Professor Directing Dissertation'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "omer-arslan",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:882672",
+          "label": "DigiNole ETD record — Dennen professor directing dissertation"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "dan-he",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "kari-word",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        },
+        { "url": "https://kariword.com/", "label": "Personal site (primary)" }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "hui-shi",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral student under chair section (2023)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "megan-crombie",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:1041738",
+          "label": "DigiNole ETD record — 'Vanessa P. Dennen, professor directing dissertation'"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "yujin-park",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        }
+      ],
+      "confidence": "verified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "daeun-jung",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        }
+      ],
+      "confidence": "unverified"
+    },
+    {
+      "advisorId": "vanessa-dennen",
+      "studentId": "s-n-beauford",
+      "type": "advisor",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
+          "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
+        }
+      ],
       "confidence": "unverified"
     }
   ]

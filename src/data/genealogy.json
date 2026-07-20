@@ -9,10 +9,15 @@
       "year": 2001,
       "dissertationTitle": "The design and facilitation of asynchronous discussion activities in Web-based courses",
       "currentAffiliation": "Professor, Instructional Systems & Learning Technologies, Florida State University",
-      "links": { "homepage": "https://vanessadennen.com" },
+      "links": {
+        "homepage": "https://vanessadennen.com"
+      },
       "photo": "vanessa-dennen.jpg",
       "sources": [
-        { "url": "https://vanessadennen.com", "label": "Personal site / CV" },
+        {
+          "url": "https://vanessadennen.com",
+          "label": "Personal site / CV"
+        },
         {
           "url": "https://annescollege.fsu.edu/faculty-staff/dr-vanessa-dennen",
           "label": "FSU faculty profile (photo source, © FSU)"
@@ -36,7 +41,10 @@
       },
       "photo": "charles-reigeluth.jpg",
       "sources": [
-        { "url": "https://www.reigeluth.net/me-c1owg", "label": "Own site bio (primary)" },
+        {
+          "url": "https://www.reigeluth.net/me-c1owg",
+          "label": "Own site bio (primary)"
+        },
         {
           "url": "https://files.eric.ed.gov/fulltext/ED542982.pdf",
           "label": "Interview, Contemporary Educational Technology 2013 (autobiographical)"
@@ -121,10 +129,16 @@
         {
           "url": "http://isfsu.blogspot.com/2018/03/",
           "label": "FSU ISLT blog — defense announcement, March 30, 2018 (Major Professor: Dennen)"
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=060e-UoAAAAJ",
+          "label": "Google Scholar profile (photo source)"
         }
       ],
       "confidence": "verified",
-      "role": "self"
+      "role": "self",
+      "photo": "taehyeong-lim.jpg",
+      "currentAffiliation": "Jeonju National University of Education"
     },
     {
       "id": "c-o-fyle",
@@ -155,7 +169,10 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
         },
-        { "url": "https://repository.lib.fsu.edu/islandora/object/fsu:176181", "label": "DigiNole ETD record" }
+        {
+          "url": "https://repository.lib.fsu.edu/islandora/object/fsu:176181",
+          "label": "DigiNole ETD record"
+        }
       ],
       "confidence": "verified"
     },
@@ -187,9 +204,15 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://nursing.fsu.edu/faculty-staff/jean-marc-wise",
+          "label": "FSU College of Nursing staff page — photo source, © FSU"
         }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "jean-marc-wise.jpg",
+      "currentAffiliation": "Director, Instructional Design & Innovative Learning, FSU College of Nursing"
     },
     {
       "id": "m-sota",
@@ -237,9 +260,17 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
         },
-        { "url": "https://www.researchgate.net/profile/Yvonne-Earnshaw", "label": "ResearchGate (affiliation)" }
+        {
+          "url": "https://www.researchgate.net/profile/Yvonne-Earnshaw",
+          "label": "ResearchGate (affiliation)"
+        },
+        {
+          "url": "https://facultyweb.kennesaw.edu/yearnsha/index.php",
+          "label": "Kennesaw State faculty page — photo source, © KSU"
+        }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "yvonne-earnshaw.jpg"
     },
     {
       "id": "m-h-joo",
@@ -335,9 +366,17 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
         },
-        { "url": "https://www.researchgate.net/profile/Yasin-Yalcin", "label": "ResearchGate (affiliation)" }
+        {
+          "url": "https://www.researchgate.net/profile/Yasin-Yalcin",
+          "label": "ResearchGate (affiliation)"
+        },
+        {
+          "url": "https://avesis.erdogan.edu.tr/yasin.yalcin",
+          "label": "RTE University AVESİS profile — photo source, © RTEU"
+        }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "yasin-yalcin.png"
     },
     {
       "id": "x-xue",
@@ -372,9 +411,14 @@
         {
           "url": "http://isfsu.blogspot.com/2018/03/",
           "label": "FSU ISLT blog — defense announcement, April 4, 2018 (Major Professor: Dennen)"
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=N6lX-6sAAAAJ",
+          "label": "Google Scholar profile (photo source)"
         }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "fabrizio-fornara.jpg"
     },
     {
       "id": "n-a-puplampu",
@@ -427,9 +471,13 @@
           "url": "http://web.archive.org/web/20210125144954/https://calendar.fsu.edu/event/bong_ji_yae_-_dissertation_defense",
           "label": "FSU calendar defense announcement (Chair: Dennen)"
         },
-        { "url": "https://edld.charlotte.edu/people/ji-yae-bong/", "label": "UNC Charlotte profile (affiliation)" }
+        {
+          "url": "https://edld.charlotte.edu/people/ji-yae-bong/",
+          "label": "UNC Charlotte profile (affiliation)"
+        }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "ji-yae-bong.jpg"
     },
     {
       "id": "zhongrui-yao",
@@ -447,9 +495,14 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://meme.create.fsu.edu/people/",
+          "label": "MEME Research Group (Dennen's lab) alumni page — photo source, © FSU"
         }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "zhongrui-yao.png"
     },
     {
       "id": "hajeen-choi",
@@ -465,9 +518,17 @@
           "url": "https://repository.lib.fsu.edu/islandora/object/fsu:875327",
           "label": "DigiNole ETD record — Dennen professor directing dissertation"
         },
-        { "url": "https://www.researchgate.net/profile/Hajeen-Choi", "label": "ResearchGate (affiliation)" }
+        {
+          "url": "https://www.researchgate.net/profile/Hajeen-Choi",
+          "label": "ResearchGate (affiliation)"
+        },
+        {
+          "url": "https://meme.create.fsu.edu/people/",
+          "label": "MEME Research Group (Dennen's lab) alumni page — photo source, © FSU"
+        }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "hajeen-choi.jpg"
     },
     {
       "id": "lauren-bagdy",
@@ -483,9 +544,13 @@
           "url": "https://repository.lib.fsu.edu/islandora/object/fsu:826701",
           "label": "DigiNole ETD record — Dennen professor directing dissertation"
         },
-        { "url": "https://people.coe.uga.edu/lauren-bagdy/", "label": "University of Georgia profile (affiliation)" }
+        {
+          "url": "https://people.coe.uga.edu/lauren-bagdy/",
+          "label": "University of Georgia profile (affiliation)"
+        }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "lauren-bagdy.jpg"
     },
     {
       "id": "aiman-khamitova",
@@ -503,10 +568,15 @@
         {
           "url": "https://purl.lib.fsu.edu/diginole/2022_Khamitova_fsu_0071E_17135",
           "label": "DigiNole PURL"
+        },
+        {
+          "url": "https://mooc.global/alliance/oed-2021-session-3-rwth-aachen-sjtu-nazarbayev/",
+          "label": "Global MOOC Alliance speaker page — photo source (via cache; origin offline)"
         }
       ],
       "confidence": "verified",
-      "notes": "Dissertation on faculty training for active learning classroom usage at Nazarbayev University; exact title wording unconfirmed (repository outage during research)."
+      "notes": "Dissertation on faculty training for active learning classroom usage at Nazarbayev University; exact title wording unconfirmed (repository outage during research).",
+      "photo": "aiman-khamitova.jpg"
     },
     {
       "id": "michelle-cates",
@@ -524,10 +594,15 @@
         {
           "url": "https://repository.lib.fsu.edu/islandora/object/fsu:883198/datastream/PDF/download",
           "label": "Dissertation PDF (DigiNole)"
+        },
+        {
+          "url": "https://www.researchgate.net/profile/Michelle-Cates-2",
+          "label": "ResearchGate profile — photo source"
         }
       ],
       "confidence": "verified",
-      "notes": "Degree type (PhD/EdD) unconfirmed."
+      "notes": "Degree type (PhD/EdD) unconfirmed.",
+      "photo": "michelle-cates.jpg"
     },
     {
       "id": "melissa-jones",
@@ -543,10 +618,21 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
         },
-        { "url": "https://scholar.google.com/citations?user=9n34L68AAAAJ", "label": "Google Scholar (affiliation)" },
-        { "url": "https://cehhs.fsu.edu/blog/student-spotlight-melissa-jones", "label": "FSU student spotlight" }
+        {
+          "url": "https://scholar.google.com/citations?user=9n34L68AAAAJ",
+          "label": "Google Scholar (affiliation)"
+        },
+        {
+          "url": "https://cehhs.fsu.edu/blog/student-spotlight-melissa-jones",
+          "label": "FSU student spotlight"
+        },
+        {
+          "url": "https://meme.create.fsu.edu/people/",
+          "label": "MEME Research Group (Dennen's lab) alumni page — photo source, © FSU"
+        }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "melissa-jones.jpg"
     },
     {
       "id": "bruce-screws",
@@ -564,10 +650,15 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, Doctoral Committee Chair section"
+        },
+        {
+          "url": "https://meme.create.fsu.edu/people/",
+          "label": "MEME Research Group (Dennen's lab) alumni page — photo source, © FSU"
         }
       ],
       "confidence": "verified",
-      "notes": "Title spelling 'Adapation' is as it appears in the ETD record."
+      "notes": "Title spelling 'Adapation' is as it appears in the ETD record.",
+      "photo": "bruce-screws.png"
     },
     {
       "id": "omer-arslan",
@@ -583,9 +674,13 @@
           "url": "https://repository.lib.fsu.edu/islandora/object/fsu:882672",
           "label": "DigiNole ETD record — Dennen professor directing dissertation"
         },
-        { "url": "https://wertheim.fsu.edu/person/omer-arslan", "label": "FSU Wertheim profile (affiliation)" }
+        {
+          "url": "https://wertheim.fsu.edu/person/omer-arslan",
+          "label": "FSU Wertheim profile (affiliation)"
+        }
       ],
-      "confidence": "verified"
+      "confidence": "verified",
+      "photo": "omer-arslan.jpg"
     },
     {
       "id": "dan-he",
@@ -601,10 +696,18 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
         },
-        { "url": "https://scholar.google.pt/citations?user=s4bmeegAAAAJ", "label": "Google Scholar (dissertation + affiliation)" }
+        {
+          "url": "https://scholar.google.pt/citations?user=s4bmeegAAAAJ",
+          "label": "Google Scholar (dissertation + affiliation)"
+        },
+        {
+          "url": "https://meme.create.fsu.edu/people/",
+          "label": "MEME Research Group (Dennen's lab) alumni page — photo source, © FSU"
+        }
       ],
       "confidence": "verified",
-      "notes": "ETD record not directly inspected (repository outage during research)."
+      "notes": "ETD record not directly inspected (repository outage during research).",
+      "photo": "dan-he.jpg"
     },
     {
       "id": "kari-word",
@@ -619,10 +722,18 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
         },
-        { "url": "https://kariword.com/", "label": "Personal site — defense March 5, 2025 (primary)" }
+        {
+          "url": "https://kariword.com/",
+          "label": "Personal site — defense March 5, 2025 (primary)"
+        },
+        {
+          "url": "https://meme.create.fsu.edu/people/",
+          "label": "MEME Research Group (Dennen's lab) alumni page — photo source, © FSU"
+        }
       ],
       "confidence": "verified",
-      "notes": "Dissertation on how women use the Internet to learn about endometriosis; exact title unconfirmed."
+      "notes": "Dissertation on how women use the Internet to learn about endometriosis; exact title unconfirmed.",
+      "photo": "kari-word.jpg"
     },
     {
       "id": "hui-shi",
@@ -638,10 +749,18 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, doctoral student under chair section (2023)"
         },
-        { "url": "https://scholar.google.com/citations?user=laSfCbIAAAAJ", "label": "Google Scholar (dissertation + affiliation)" }
+        {
+          "url": "https://scholar.google.com/citations?user=laSfCbIAAAAJ",
+          "label": "Google Scholar (dissertation + affiliation)"
+        },
+        {
+          "url": "https://meme.create.fsu.edu/people/",
+          "label": "MEME Research Group (Dennen's lab) alumni page — photo source, © FSU"
+        }
       ],
       "confidence": "verified",
-      "notes": "ETD record not directly inspected (repository outage during research)."
+      "notes": "ETD record not directly inspected (repository outage during research).",
+      "photo": "hui-shi.jpg"
     },
     {
       "id": "megan-crombie",
@@ -659,10 +778,15 @@
         {
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, doctoral student under chair section (2023)"
+        },
+        {
+          "url": "https://www.fsus.school/faculty-staff-directory1",
+          "label": "FSU Schools faculty directory — photo source, © FSUS"
         }
       ],
       "confidence": "verified",
-      "notes": "Degree type likely EdD (unconfirmed)."
+      "notes": "Degree type likely EdD (unconfirmed).",
+      "photo": "megan-crombie.jpg"
     },
     {
       "id": "yujin-park",
@@ -676,11 +800,22 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
         },
-        { "url": "https://meme.create.fsu.edu/yujin-park/", "label": "MEME lab profile (dissertation topic)" },
-        { "url": "https://asu.elsevierpure.com/en/persons/yujin-park/", "label": "ASU profile (affiliation)" }
+        {
+          "url": "https://meme.create.fsu.edu/yujin-park/",
+          "label": "MEME lab profile (dissertation topic)"
+        },
+        {
+          "url": "https://asu.elsevierpure.com/en/persons/yujin-park/",
+          "label": "ASU profile (affiliation)"
+        },
+        {
+          "url": "https://meme.create.fsu.edu/people/",
+          "label": "MEME Research Group (Dennen's lab) alumni page — photo source, © FSU"
+        }
       ],
       "confidence": "unverified",
-      "notes": "Graduation year (~2024) and final dissertation title unconfirmed. Topic: teachers as curators of digital resources and Personal Learning Networks."
+      "notes": "Graduation year (~2024) and final dissertation title unconfirmed. Topic: teachers as curators of digital resources and Personal Learning Networks.",
+      "photo": "yujin-park.jpg"
     },
     {
       "id": "daeun-jung",
@@ -693,10 +828,14 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
         },
-        { "url": "https://meme.create.fsu.edu/daeun-jung/", "label": "MEME lab profile (dissertation topic)" }
+        {
+          "url": "https://meme.create.fsu.edu/daeun-jung/",
+          "label": "MEME lab profile (dissertation topic)"
+        }
       ],
       "confidence": "unverified",
-      "notes": "Listed as MEME lab alumna (July 2026) but no ETD record found — graduation inferred. Topic: social media usage and disadvantaged students' college access."
+      "notes": "Listed as MEME lab alumna (July 2026) but no ETD record found — graduation inferred. Topic: social media usage and disadvantaged students' college access.",
+      "photo": "daeun-jung.jpg"
     },
     {
       "id": "s-n-beauford",
@@ -1117,7 +1256,10 @@
           "url": "http://web.archive.org/web/20230802210823/https://www.fsu.edu/cvdb/VDENNEN.rtf",
           "label": "Dennen FSU vita, doctoral candidate under chair section (2023)"
         },
-        { "url": "https://kariword.com/", "label": "Personal site (primary)" }
+        {
+          "url": "https://kariword.com/",
+          "label": "Personal site (primary)"
+        }
       ],
       "confidence": "verified"
     },

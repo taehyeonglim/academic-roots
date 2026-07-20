@@ -1,6 +1,5 @@
 import { Handle, Position, type NodeProps } from "@xyflow/react";
 import type { PersonFlowNode } from "../lib/graph";
-import { strings } from "../strings";
 
 function initials(name: string): string {
   return name

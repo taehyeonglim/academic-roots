@@ -133,6 +133,25 @@ body {
 .person-node.is-anchor {
   border-color: var(--accent);
   box-shadow: 0 0 0 3px var(--accent-soft), 0 1px 3px rgba(38, 34, 27, 0.1);
+  /* draw the eye to the anchor on first load, then settle */
+  animation: anchor-pulse 1.4s ease-out 0.8s 3;
+}
+
+@keyframes anchor-pulse {
+  0% {
+    box-shadow: 0 0 0 3px var(--accent-soft), 0 0 0 0 rgba(154, 123, 45, 0.55),
+      0 1px 3px rgba(38, 34, 27, 0.1);
+  }
+  100% {
+    box-shadow: 0 0 0 3px var(--accent-soft), 0 0 0 26px rgba(154, 123, 45, 0),
+      0 1px 3px rgba(38, 34, 27, 0.1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .person-node.is-anchor {
+    animation: none;
+  }
 }
 
 .person-node.is-self {
